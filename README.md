@@ -1,6 +1,6 @@
 # Skipriser
 
-Sjekker hver dag prisen på **klassisk-skisko (str. 45)** og **langrennsstaver (157,5/160 cm)**
+Sjekker hver dag prisen på **kombisko for klassisk og skøyting (str. 45)** og **langrennsstaver (157,5/160 cm)**
 i norske nettbutikker, til skiene Atomic Redster C2 Skin 202 cm (rød/svart).
 
 - **Se prisene:** åpne [RAPPORT.md](RAPPORT.md). Den oppdateres hver morgen.
@@ -25,6 +25,7 @@ Anton Sport og Oslo Sportslager slipper ikke skript inn, og er derfor ikke med.
 Alt står i `config.json`:
 
 - `profil`: skostørrelse og stavlengder.
+- `filter.sko.krev`: ord som må være med (nå kombi/skiathlon). Fjern linjen for å få med rene klassisk-sko igjen.
 - `varsel`: hvor stort prisfall som skal gi varsel (kr og prosent), og hvor stor rabatt et
   nytt produkt må ha.
 - `filter`: ord som utelukker produkter (skøytesko, junior, stropper osv.). `skøyt*` treffer

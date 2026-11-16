@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Daglig prissjekk av klassisk-skisko og langrennsstaver i norske nettbutikker.
+"""Daglig prissjekk av langrennssko (kombi) og langrennsstaver i norske nettbutikker.
 
 Kjør:  python skipriser.py            (henter priser, oppdaterer data/priser.json,
                                        skriver RAPPORT.md og ev. varsel.md)
@@ -268,15 +268,17 @@ def har_ord(tekst, ordliste):
 def passer(p, kilde, cfg):
     regler = cfg["filter"][kilde["type"]]
     sti = urllib.parse.urlparse(p["url"]).path  # ikke domenet: «fjell*» skal ikke treffe fjellsport.no
-    tekst = " ".join([sti] + [str(p.get(k, "")) for k in ("merke", "navn", "kategori", "tagger", "kjonn", "bruker")]).lower()
+    tekst = " ".join([sti] + [str(p.get(k, "")) for k in ("merke", "navn", "kategori", "kjonn", "bruker")]).lower()
     if har_ord(tekst, regler["utelat"]):
+        return False
+    # «krev»: minst ett av ordene må finnes (f.eks. kombi), også i butikkens tagger/bruksområde.
+    bredt = f'{tekst} {p.get("tagger", "")} {p.get("bruk", "")}'.lower()
+    if regler.get("krev") and not har_ord(bredt, regler["krev"]):
         return False
     if p["pris"] < regler.get("min_pris", 0):
         return False
     if kilde["type"] == "sko":
         if p.get("system") and not har_ord(p["system"].lower(), ["nnn", "prolink", "turnamic"]):
-            return False
-        if p.get("bruk") and not har_ord(p["bruk"].lower(), ["klassisk", "kombi*"]):
             return False
     return True
 
@@ -375,7 +377,7 @@ def main():
         ps = [p for p in funnet.values() if p["type"] == type_ and (rabatt(p) > 0) == bare_tilbud]
         return sorted(ps, key=(lambda p: (-rabatt(p), p["pris"])) if bare_tilbud else (lambda p: p["pris"]))
 
-    navn = {"sko": f'Skisko klassisk, str. {"/".join(profil["skostorrelse"])}',
+    navn = {"sko": f'Skisko {profil.get("skotype", "klassisk")}, str. {"/".join(profil["skostorrelse"])}',
             "staver": f'Staver, {" / ".join(str(l).replace(".", ",") for l in profil["stavlengder_cm"])} cm'}
     linjer = [f"# Skipriser {i_dag}", "",
               f'{len(funnet)} aktuelle produkter funnet. ★ = passer til skiene ({cfg["matcher_skiene"]["beskrivelse"]}).', ""]

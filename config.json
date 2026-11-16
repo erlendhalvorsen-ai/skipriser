@@ -1,5 +1,6 @@
 {
   "profil": {
+    "skotype": "kombi (klassisk + skøyting)",
     "skostorrelse": ["45"],
     "stavlengder_cm": [157.5, 160]
   },
@@ -16,6 +17,7 @@
   "filter": {
     "sko": {
       "min_pris": 400,
+      "krev": ["combi*", "kombi*", "skiathlon", "universal", "co", "pursuit", "duathlon"],
       "utelat": [
         "skate*", "skøyt*", "skoyt*", "skating", "rs", "rs7", "rs8", "rs9", "rs10", "nsk", "fsk", "dp",
         "bc", "bcx", "xplore", "75mm", "fjellski*", "backcountry", "outback", "outpath", "outrack",
@@ -52,7 +54,7 @@
     {"butikk": "Intersport", "type": "staver", "parser": "sportholding",
      "url": "https://www.intersport.no/vintersport/langrenn/langrennstaver-og-deler"},
     {"butikk": "Milslukern", "type": "sko", "parser": "milslukern",
-     "url": "https://www.milslukern.no/langrenn/sko/klassisk"},
+     "url": "https://www.milslukern.no/langrenn/sko/kombisko"},
     {"butikk": "Milslukern", "type": "staver", "parser": "milslukern",
      "url": "https://www.milslukern.no/langrenn/staver"},
     {"butikk": "Fjellsport", "type": "sko", "parser": "fjellsport",
