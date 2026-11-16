@@ -1,6 +1,6 @@
 # Skipriser 2026-11-16
 
-232 aktuelle produkter funnet. ★ = passer til skiene (Atomic Redster C2 Skin, rød/svart: Atomic eller rødt).
+233 aktuelle produkter funnet. ★ = passer til skiene (Atomic Redster C2 Skin, rød/svart: Atomic eller rødt).
 
 ## Endringer siden sist
 
@@ -136,6 +136,7 @@
 |  | [Madshus Pulse BOA® UNIVERSAL](https://www.intersport.no/madshus-pulse-boar-universal-tbd-unisex-md251343) | kombi | Intersport | **4 800 kr** |  |  | 4 800 kr |  |
 |  | [Fischer Speedmax 9 Skiathlon Boa](https://www.milslukern.no/fischer-52-speedmax-9-skiathlon-boa-p31020/multicolour-39-v183988) | kombi | Milslukern | **11 999 kr** |  |  | 11 999 kr | sjekk størrelse selv |
 |  | [Fischer Speedmax 9 Skiathlon Boa](https://www.milslukern.no/fischer-52-speedmax-9-skiathlon-boa-p31020/multicolour-39-v183988) | kombi | Milslukern | **11 999 kr** |  |  | 11 999 kr | sjekk størrelse selv |
+|  | [Rossignol XC Boots X-6 Skate 24/25, skøytestøvel](https://www.xxl.no/rossignol-xc-boots-x-6-skate-24-25-skoytestovel-flerfarget/p/1221208_1_Style) | skøyte | XXL | **899 kr** |  |  | 899 kr | Flerfarget |
 |  | [Madshus Race Pro Skate, skøytestøvel, unisex](https://www.xxl.no/madshus-race-pro-skate-skoytestovel-unisex-svart/p/1261875_1_Style) | skøyte | XXL | **1 449 kr** |  |  | 1 449 kr | Svart |
 |  | [Rossignol XC Boots X-7 Skate 25/26, skøytestøvel, unisex](https://www.xxl.no/rossignol-xc-boots-x-7-skate-25-26-skoytestovel-unisex/p/1243418_1_Style) | skøyte | XXL | **2 479 kr** |  |  | 2 479 kr |  |
 |  | [Madshus Endurace Skate](https://www.sport1.no/madshus-endurace-skate-black-unisex-n220400401) | skøyte | Sport 1 | **2 800 kr** |  |  | 2 800 kr |  |

@@ -1,4 +1,224 @@
 {
+ "Fjellsport:FS179832": {
+  "butikk": "Fjellsport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    4999
+   ]
+  ],
+  "laveste": 4999,
+  "laveste_dato": "2026-11-16",
+  "merke": "Alpina",
+  "navn": "Comp Classic AS Red/Black",
+  "pris": 4999,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.fjellsport.no/merker/alpina/alpina-skisko-comp-klassisk-as-red-black-white-50"
+ },
+ "Fjellsport:FS179833": {
+  "butikk": "Fjellsport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    6499
+   ]
+  ],
+  "laveste": 6499,
+  "laveste_dato": "2026-11-16",
+  "merke": "Alpina",
+  "navn": "Comp Skate Black/Red",
+  "pris": 6499,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.fjellsport.no/merker/alpina/alpina-skisko-comp-skoyting-red-black-white-50"
+ },
+ "Fjellsport:FS179839": {
+  "butikk": "Fjellsport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3799
+   ]
+  ],
+  "laveste": 3799,
+  "laveste_dato": "2026-11-16",
+  "merke": "Alpina",
+  "navn": "Skisko FCL Rød/Sort/Hvit",
+  "pris": 3799,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.fjellsport.no/merker/alpina/alpina-skisko-fcl-rod-sort-hvit-51"
+ },
+ "Fjellsport:FS179840": {
+  "butikk": "Fjellsport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3999
+   ]
+  ],
+  "laveste": 3999,
+  "laveste_dato": "2026-11-16",
+  "merke": "Alpina",
+  "navn": "Skisko FCL AS Rød/Sort/Hvit",
+  "pris": 3999,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.fjellsport.no/merker/alpina/alpina-skisko-fcl-as-rod-sort-hvit-51"
+ },
+ "Fjellsport:FS179842": {
+  "butikk": "Fjellsport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    4499
+   ]
+  ],
+  "laveste": 4499,
+  "laveste_dato": "2026-11-16",
+  "merke": "Alpina",
+  "navn": "Skisko FSK Rød/Sort/Hvit",
+  "pris": 4499,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.fjellsport.no/merker/alpina/alpina-skisko-fsk-rod-sort-hvit-49"
+ },
+ "Fjellsport:FS179846": {
+  "butikk": "Fjellsport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    4999
+   ]
+  ],
+  "laveste": 4999,
+  "laveste_dato": "2026-11-16",
+  "merke": "Alpina",
+  "navn": "Skisko Pro Klassisk Red/Black/White",
+  "pris": 4999,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.fjellsport.no/merker/alpina/alpina-skisko-pro-klassisk-red-black-white-51"
+ },
+ "Fjellsport:FS179849": {
+  "butikk": "Fjellsport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    7999
+   ]
+  ],
+  "laveste": 7999,
+  "laveste_dato": "2026-11-16",
+  "merke": "Alpina",
+  "navn": "Unisex Pro Skate Red",
+  "pris": 7999,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.fjellsport.no/merker/alpina/alpina-skisko-pro-skoyting-red-black-white-51"
+ },
+ "Fjellsport:FS203488": {
+  "butikk": "Fjellsport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3599
+   ]
+  ],
+  "laveste": 3599,
+  "laveste_dato": "2026-11-16",
+  "merke": "Alpina",
+  "navn": "Skisko NCL AS Sort/Hvit/Rød",
+  "pris": 3599,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.fjellsport.no/merker/alpina/alpina-skisko-ncl-as-sort-hvit-rod"
+ },
+ "Fjellsport:FS203490": {
+  "butikk": "Fjellsport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3799
+   ]
+  ],
+  "laveste": 3799,
+  "laveste_dato": "2026-11-16",
+  "merke": "Alpina",
+  "navn": "Skisko NSK Sort/Hvit/Rød",
+  "pris": 3799,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.fjellsport.no/merker/alpina/alpina-skisko-nsk-sort-hvit-rod"
+ },
+ "Fjellsport:FS223049": {
+  "butikk": "Fjellsport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    2600
+   ]
+  ],
+  "laveste": 2600,
+  "laveste_dato": "2026-11-16",
+  "merke": "Salomon",
+  "navn": "Men's RC8 Prolink Black/Process Blue",
+  "pris": 2600,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.fjellsport.no/merker/salomon/salomon-rc8-prolink-black-process-blue-223049"
+ },
+ "Fjellsport:FS223079": {
+  "butikk": "Fjellsport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    4200
+   ]
+  ],
+  "laveste": 4200,
+  "laveste_dato": "2026-11-16",
+  "merke": "Salomon",
+  "navn": "Men's RS8 Prolink Dark Navy/Black/Process Blue",
+  "pris": 4200,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.fjellsport.no/merker/salomon/salomon-rs8-prolink-dark-navy-black-process-blue-223079"
+ },
  "Fjellsport:FS413915": {
   "butikk": "Fjellsport",
   "forpris": null,
@@ -16,6 +236,7 @@
   "pris": 1899,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.fjellsport.no/merker/leki/prc-750-128251-FS413915"
  },
  "Fjellsport:FS413916": {
@@ -35,7 +256,28 @@
   "pris": 1299,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.fjellsport.no/merker/leki/cc-450-black-yellow-413916"
+ },
+ "Fjellsport:FS449531": {
+  "butikk": "Fjellsport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    1700
+   ]
+  ],
+  "laveste": 1700,
+  "laveste_dato": "2026-11-16",
+  "merke": "Salomon",
+  "navn": "Escape Black / Castelrock / Blue Ashes",
+  "pris": 1700,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.fjellsport.no/merker/salomon/salomon-escape-black-castelrock-blue-ashes-449531"
  },
  "Fjellsport:FS510137": {
   "butikk": "Fjellsport",
@@ -54,7 +296,68 @@
   "pris": 399,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.fjellsport.no/merker/leki/leki-xta-tour-anthracite-510137"
+ },
+ "Fjellsport:FS556418": {
+  "butikk": "Fjellsport",
+  "forpris": 4700,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    2699
+   ]
+  ],
+  "laveste": 2699,
+  "laveste_dato": "2026-11-16",
+  "merke": "Salomon",
+  "navn": "Rs10 Ebony / White / Process Blue-X",
+  "pris": 2699,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.fjellsport.no/merker/salomon/salomon-rs10-ebony-white-process-blue-x-FS556418"
+ },
+ "Fjellsport:FS556420": {
+  "butikk": "Fjellsport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3200
+   ]
+  ],
+  "laveste": 3200,
+  "laveste_dato": "2026-11-16",
+  "merke": "Salomon",
+  "navn": "R Prolink Ebony / Silver C",
+  "pris": 3200,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.fjellsport.no/merker/salomon/salomon-r-prolink-ebony-silver-c-FS556420"
+ },
+ "Fjellsport:FS571397": {
+  "butikk": "Fjellsport",
+  "forpris": 2999,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    2199
+   ]
+  ],
+  "laveste": 2199,
+  "laveste_dato": "2026-11-16",
+  "merke": "Alpina",
+  "navn": "Skisko Action Cl Black",
+  "pris": 2199,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.fjellsport.no/merker/alpina/alpina-skisko-action-cl-black-FS571397"
  },
  "Fjellsport:FS571398": {
   "butikk": "Fjellsport",
@@ -73,6 +376,7 @@
   "pris": 3199,
   "sist_sett": "2026-11-16",
   "type": "sko",
+  "undertype": "kombi",
   "url": "https://www.fjellsport.no/merker/alpina/alpina-skisko-action-co-black-FS571398"
  },
  "Fjellsport:FS610405": {
@@ -92,6 +396,7 @@
   "pris": 1349,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.fjellsport.no/merker/leki/leki-hrc-marathon-bright-red-neonyellow-black-FS610405"
  },
  "Fjellsport:FS610406": {
@@ -111,6 +416,7 @@
   "pris": 1299,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.fjellsport.no/merker/leki/leki-prc-850-light-anthracite-neonyellow-FS610406"
  },
  "Fjellsport:FS640372": {
@@ -130,6 +436,7 @@
   "pris": 379,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.fjellsport.no/merker/swix/swix-i2-touring-pole-white-FS640372"
  },
  "Fjellsport:FS640381": {
@@ -149,6 +456,7 @@
   "pris": 1189,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.fjellsport.no/merker/swix/swix-q4-pole-black-FS640381"
  },
  "Fjellsport:FS640382": {
@@ -168,6 +476,7 @@
   "pris": 1400,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.fjellsport.no/merker/swix/swix-q5-pole-red-FS640382"
  },
  "Fjellsport:FS689045": {
@@ -187,6 +496,7 @@
   "pris": 799,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.fjellsport.no/merker/leki/leki-xta-track-anthracite-FS689045"
  },
  "Fjellsport:FS748525": {
@@ -206,6 +516,7 @@
   "pris": 2219,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.fjellsport.no/merker/leki/leki-hrc-marathon-tr-bright-red-violet-neonyellow-FS748525"
  },
  "Fjellsport:FS764911": {
@@ -225,6 +536,7 @@
   "pris": 1289,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.fjellsport.no/merker/leki/leki-prc-750-black-FS764911"
  },
  "Fjellsport:FS767082": {
@@ -244,7 +556,88 @@
   "pris": 359,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.fjellsport.no/merker/swix/swix-infinity-sonic-alu-pole-black-nocolor-FS767082"
+ },
+ "Intersport:alpina-al5357-sort-r-d-1k31_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    1299
+   ]
+  ],
+  "laveste": 1299,
+  "laveste_dato": "2026-11-16",
+  "merke": "Alpina",
+  "navn": "T 10 Tur skisko klassisk",
+  "pris": 1299,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.intersport.no/alpina-t-10-tur-skisko-klassisk-sortrod-unisex-al5357"
+ },
+ "Intersport:alpina-al5411-red-white-black-g825_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    4999
+   ]
+  ],
+  "laveste": 4999,
+  "laveste_dato": "2026-11-16",
+  "merke": "Alpina",
+  "navn": "Skisko Comp CL",
+  "pris": 4999,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.intersport.no/alpina-skisko-comp-cl-redwhiteblack-unisex-al5411"
+ },
+ "Intersport:alpina-al54341k-black-red-al015_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    1299
+   ]
+  ],
+  "laveste": 1299,
+  "laveste_dato": "2026-11-16",
+  "merke": "Alpina",
+  "navn": "T 10",
+  "pris": 1299,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.intersport.no/alpina-t-10-blackred-unisex-al54341k"
+ },
+ "Intersport:alpina-al54391k-black-al001_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    2999
+   ]
+  ],
+  "laveste": 2999,
+  "laveste_dato": "2026-11-16",
+  "merke": "Alpina",
+  "navn": "Skisko Action CL",
+  "pris": 2999,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.intersport.no/alpina-skisko-action-cl-black-unisex-al54391k"
  },
  "Intersport:alpina-al54401k-black-al001_ino_no": {
   "butikk": "Intersport",
@@ -263,6 +656,7 @@
   "pris": 3199,
   "sist_sett": "2026-11-16",
   "type": "sko",
+  "undertype": "kombi",
   "url": "https://www.intersport.no/alpina-skisko-action-co-black-unisex-al54401k"
  },
  "Intersport:atomic-aj5005800-grey---black-242_ino_no": {
@@ -282,6 +676,7 @@
   "pris": 2000,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.intersport.no/atomic-pro-carbon-qrs-grey-black-unisex-aj5005800"
  },
  "Intersport:atomic-aj5005814-black-242_ino_no": {
@@ -301,7 +696,288 @@
   "pris": 800,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.intersport.no/atomic-savor-qrs-black-unisex-aj5005814"
+ },
+ "Intersport:fischer-s04325-multicolour-242_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    11500
+   ]
+  ],
+  "laveste": 11500,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Speedmax 9 Skate Rl Boa",
+  "pris": 11500,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.intersport.no/fischer-speedmax-9-skate-rl-boa-multicolour-unisex-s04325"
+ },
+ "Intersport:fischer-s06325-multicolour-242_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    9000
+   ]
+  ],
+  "laveste": 9000,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Speedmax 9 Classic Rl Boa",
+  "pris": 9000,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.intersport.no/fischer-speedmax-9-classic-rl-boa-multicolour-unisex-s06325"
+ },
+ "Intersport:fischer-s10025-multicolour-242_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    7800
+   ]
+  ],
+  "laveste": 7800,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Speedmax 7 Skate",
+  "pris": 7800,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.intersport.no/fischer-speedmax-7-skate-multicolour-unisex-s10025"
+ },
+ "Intersport:fischer-s10026-multicolour-242_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    8500
+   ]
+  ],
+  "laveste": 8500,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Speedmax 7 Skate Boa",
+  "pris": 8500,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.intersport.no/fischer-speedmax-7-skate-boa-multicolour-unisex-s10026"
+ },
+ "Intersport:fischer-s10525-multicolour-242_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    5000
+   ]
+  ],
+  "laveste": 5000,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Speedmax 7 Classic",
+  "pris": 5000,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.intersport.no/fischer-speedmax-7-classic-multicolour-unisex-s10525"
+ },
+ "Intersport:fischer-s10526-multicolour-242_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    5800
+   ]
+  ],
+  "laveste": 5800,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Speedmax 7 Classic Boa",
+  "pris": 5800,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.intersport.no/fischer-speedmax-7-classic-boa-multicolour-unisex-s10526"
+ },
+ "Intersport:fischer-s12526-multicolour-242_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    4800
+   ]
+  ],
+  "laveste": 4800,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Speedmax 6 Classic Boa",
+  "pris": 4800,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.intersport.no/fischer-speedmax-6-classic-boa-multicolour-unisex-s12526"
+ },
+ "Intersport:fischer-s15024-multicolour-242_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    6500
+   ]
+  ],
+  "laveste": 6500,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Carbon Skate",
+  "pris": 6500,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.intersport.no/fischer-carbon-skate-multicolour-unisex-s15024"
+ },
+ "Intersport:fischer-s15026-multicolour-242_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    6800
+   ]
+  ],
+  "laveste": 6800,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Speedmax 6 Skate Boa",
+  "pris": 6800,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.intersport.no/fischer-speedmax-6-skate-boa-multicolour-unisex-s15026"
+ },
+ "Intersport:fischer-s15226-multicolour-242_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    4800
+   ]
+  ],
+  "laveste": 4800,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Rc5 Skate Boa",
+  "pris": 4800,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.intersport.no/fischer-rc5-skate-boa-multicolour-unisex-s15226"
+ },
+ "Intersport:fischer-s15421-multicolour-242_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3700
+   ]
+  ],
+  "laveste": 3700,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "RC5 Skate skisko skøyting",
+  "pris": 3700,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.intersport.no/fischer-rc5-skate-skisko-skoyting-multicolour-unisex-s15421"
+ },
+ "Intersport:fischer-s15624v-multicolour-242_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3600
+   ]
+  ],
+  "laveste": 3600,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Rc3 Skate",
+  "pris": 3600,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.intersport.no/fischer-rc3-skate-multicolour-unisex-s15624v"
+ },
+ "Intersport:fischer-s17023-multicolour-242_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3400
+   ]
+  ],
+  "laveste": 3400,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "RC5 Classic langrennsko",
+  "pris": 3400,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.intersport.no/fischer-rc5-classic-langrennsko-multicolour-unisex-s17023"
+ },
+ "Intersport:fischer-s17224v-multicolour-242_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    2700
+   ]
+  ],
+  "laveste": 2700,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Rc3 Classic",
+  "pris": 2700,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.intersport.no/fischer-rc3-classic-multicolour-unisex-s17224v"
  },
  "Intersport:fischer-s18724v-multicolour-242_ino_no": {
   "butikk": "Intersport",
@@ -320,6 +996,7 @@
   "pris": 2799,
   "sist_sett": "2026-11-16",
   "type": "sko",
+  "undertype": "kombi",
   "url": "https://www.intersport.no/fischer-rc3-combi-multicolour-unisex-s18724v"
  },
  "Intersport:fischer-s18824v-multicolour-242_ino_no": {
@@ -339,7 +1016,108 @@
   "pris": 3000,
   "sist_sett": "2026-11-16",
   "type": "sko",
+  "undertype": "kombi",
   "url": "https://www.intersport.no/fischer-rc1-combi-multicolour-unisex-s18824v"
+ },
+ "Intersport:fischer-s20524-multicolour-242_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    2500
+   ]
+  ],
+  "laveste": 2500,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Xc Control",
+  "pris": 2500,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.intersport.no/fischer-xc-control-multicolour-unisex-s20524"
+ },
+ "Intersport:fischer-s20723-multicolour-242_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    2300
+   ]
+  ],
+  "laveste": 2300,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Xc Comfort Pro",
+  "pris": 2300,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.intersport.no/fischer-xc-comfort-pro-multicolour-unisex-s20723"
+ },
+ "Intersport:fischer-s21625-multicolour-242_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    1800
+   ]
+  ],
+  "laveste": 1800,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Xc Touring",
+  "pris": 1800,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.intersport.no/fischer-xc-touring-multicolour-unisex-s21625"
+ },
+ "Intersport:fischer-s44521-multicolour-242_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    1799
+   ]
+  ],
+  "laveste": 1799,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "XC Lite skisko herre",
+  "pris": 1799,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.intersport.no/fischer-xc-lite-skisko-herre-multicolour-unisex-s44521"
+ },
+ "Intersport:fischer-s45225-multicolour-242_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    2500
+   ]
+  ],
+  "laveste": 2500,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Xc Cruiser",
+  "pris": 2500,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.intersport.no/fischer-xc-cruiser-multicolour-unisex-s45225"
  },
  "Intersport:fischer-z43525-multicolour-242_ino_no": {
   "butikk": "Intersport",
@@ -358,6 +1136,7 @@
   "pris": 500,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.intersport.no/fischer-tour-multicolour-unisex-z43525"
  },
  "Intersport:leki-65241801-neonyellow-black-white-_ino_no": {
@@ -377,6 +1156,7 @@
   "pris": 1299,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.intersport.no/leki-cc-450-neonyellow-black-white-alle-65241801"
  },
  "Intersport:leki-65249131-black-grey-_ino_no": {
@@ -396,7 +1176,28 @@
   "pris": 599,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.intersport.no/leki-xta-tour-langrennssstaver-blackgrey-unisex-65249131"
+ },
+ "Intersport:madshus-md251340-tbd-_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    2999
+   ]
+  ],
+  "laveste": 2999,
+  "laveste_dato": "2026-11-16",
+  "merke": "Madshus",
+  "navn": "Pulse BOA® CLASSIC",
+  "pris": 2999,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.intersport.no/madshus-pulse-boar-classic-tbd-unisex-md251340"
  },
  "Intersport:madshus-md251343-tbd-_ino_no": {
   "butikk": "Intersport",
@@ -415,7 +1216,48 @@
   "pris": 4800,
   "sist_sett": "2026-11-16",
   "type": "sko",
+  "undertype": "kombi",
   "url": "https://www.intersport.no/madshus-pulse-boar-universal-tbd-unisex-md251343"
+ },
+ "Intersport:madshus-n220400401-black-_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    2800
+   ]
+  ],
+  "laveste": 2800,
+  "laveste_dato": "2026-11-16",
+  "merke": "Madshus",
+  "navn": "Endurace Skate",
+  "pris": 2800,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.intersport.no/madshus-endurace-skate-black-unisex-n220400401"
+ },
+ "Intersport:madshus-n220401101-black-_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    1600
+   ]
+  ],
+  "laveste": 1600,
+  "laveste_dato": "2026-11-16",
+  "merke": "Madshus",
+  "navn": "Nordic",
+  "pris": 1600,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.intersport.no/madshus-nordic-black-unisex-n220401101"
  },
  "Intersport:mckinley-410414-black-white-yellow-900-050-001-181_ino_no": {
   "butikk": "Intersport",
@@ -434,6 +1276,7 @@
   "pris": 299,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.intersport.no/mckinley-vision-60-langrennsstaver-blackwhiteyellow-unisex-410414"
  },
  "Intersport:one-way-oz40024-multicolour-242_ino_no": {
@@ -453,6 +1296,7 @@
   "pris": 4800,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.intersport.no/one-way-premio-40-multicolour-unisex-oz40024"
  },
  "Intersport:one-way-oz41224-multicolour-242_ino_no": {
@@ -472,6 +1316,7 @@
   "pris": 2500,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.intersport.no/one-way-storm-2-multicolour-unisex-oz41224"
  },
  "Intersport:one-way-oz42822-multicolour-242_ino_no": {
@@ -491,6 +1336,7 @@
   "pris": 1350,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.intersport.no/one-way-storm-6-mag-dark-multicolour-unisex-oz42822"
  },
  "Intersport:one-way-oz42922-multicolour-242_ino_no": {
@@ -510,6 +1356,7 @@
   "pris": 1200,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.intersport.no/one-way-storm-6-dark-multicolour-unisex-oz42922"
  },
  "Intersport:one-way-oz43021-multicolour-242_ino_no": {
@@ -529,6 +1376,7 @@
   "pris": 799,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.intersport.no/one-way-diamond-1-mag-multicolour-unisex-oz43021"
  },
  "Intersport:one-way-oz43026-multicolour-242_ino_no": {
@@ -548,6 +1396,7 @@
   "pris": 1050,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.intersport.no/one-way-diamond-1-mag-multicolour-unisex-oz43026"
  },
  "Intersport:one-way-oz43121-multicolour-242_ino_no": {
@@ -567,6 +1416,7 @@
   "pris": 900,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.intersport.no/one-way-diamond-1-multicolour-unisex-oz43121"
  },
  "Intersport:one-way-oz43321-multicolour-242_ino_no": {
@@ -586,6 +1436,7 @@
   "pris": 500,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.intersport.no/one-way-diamond-3-multicolour-unisex-oz43321"
  },
  "Intersport:one-way-oz48325-multicolour-242_ino_no": {
@@ -605,6 +1456,7 @@
   "pris": 1600,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.intersport.no/one-way-storm-xc-mag-multicolour-unisex-oz48325"
  },
  "Intersport:one-way-oz48521-multicolour-242_ino_no": {
@@ -624,7 +1476,128 @@
   "pris": 1800,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.intersport.no/one-way-storm-pro-multicolour-unisex-oz48521"
+ },
+ "Intersport:rossignol-rik1260-onecolor-000_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3330
+   ]
+  ],
+  "laveste": 3330,
+  "laveste_dato": "2026-11-16",
+  "merke": "Rossignol",
+  "navn": "X-8 Classic langrennstøvler ",
+  "pris": 3330,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.intersport.no/rossignol-x-8-classic-langrennstovler-onecolor-unisex-rik1260"
+ },
+ "Intersport:rossignol-rin0060--000_ino_no": {
+  "butikk": "Intersport",
+  "forpris": 6500,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    5199
+   ]
+  ],
+  "laveste": 5199,
+  "laveste_dato": "2026-11-16",
+  "merke": "Rossignol",
+  "navn": "X-Ium Wcs Skate",
+  "pris": 5199,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.intersport.no/rossignol-x-ium-wcs-skate-unisex-rin0060"
+ },
+ "Intersport:rossignol-rin0070--000_ino_no": {
+  "butikk": "Intersport",
+  "forpris": 5000,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3999
+   ]
+  ],
+  "laveste": 3999,
+  "laveste_dato": "2026-11-16",
+  "merke": "Rossignol",
+  "navn": "X-Ium Wcs Classic",
+  "pris": 3999,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.intersport.no/rossignol-x-ium-wcs-classic-unisex-rin0070"
+ },
+ "Intersport:salomon-l41159000-black---process-blue-242_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3100
+   ]
+  ],
+  "laveste": 3100,
+  "laveste_dato": "2026-11-16",
+  "merke": "Salomon",
+  "navn": "RC9 Nocturne Prolink langrennstøvler",
+  "pris": 3100,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.intersport.no/salomon-rc9-nocturne-prolink-langrennstovler-blackprocess-blue-herre-l41159000"
+ },
+ "Intersport:salomon-l47029800-dark-navy---black---process-blue-242_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    4200
+   ]
+  ],
+  "laveste": 4200,
+  "laveste_dato": "2026-11-16",
+  "merke": "Salomon",
+  "navn": "RS8 Prolink skøytestøvler skisko skøyting",
+  "pris": 4200,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.intersport.no/salomon-rs8-prolink-skoytestovler-skisko-skoyting-dark-navyblackprocess-blue-herre-l47029800"
+ },
+ "Intersport:salomon-l47030700-black-242_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    1800
+   ]
+  ],
+  "laveste": 1800,
+  "laveste_dato": "2026-11-16",
+  "merke": "Salomon",
+  "navn": "Escape RC Prolink langrennssko",
+  "pris": 1800,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.intersport.no/salomon-escape-rc-prolink-langrennssko-black-unisex-l47030700"
  },
  "Intersport:swix-et111-01--nocolor_ino_no": {
   "butikk": "Intersport",
@@ -643,6 +1616,7 @@
   "pris": 549,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.intersport.no/swix-elite-sonic-touring-langrennstav-unisex-et111-01"
  },
  "Intersport:swix-rcq21-00-nocolor-nocolor_ino_no": {
@@ -662,6 +1636,7 @@
   "pris": 2000,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.intersport.no/swix-quantum-q2-pole-nocolor-unisex-rcq21-00"
  },
  "Intersport:swix-xcq10-00-white-00100_ino_no": {
@@ -681,6 +1656,7 @@
   "pris": 2640,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.intersport.no/swix-q1-pole-white-unisex-xcq10-00"
  },
  "Intersport:swix-xcq20-00-white-00100_ino_no": {
@@ -700,6 +1676,7 @@
   "pris": 2240,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.intersport.no/swix-q2-pole-white-unisex-xcq20-00"
  },
  "Intersport:swix-xcq40-01-black-10000_ino_no": {
@@ -719,6 +1696,7 @@
   "pris": 1499,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.intersport.no/swix-q4-pole-black-unisex-xcq40-01"
  },
  "Intersport:swix-xcq50-00-red-90000_ino_no": {
@@ -738,6 +1716,7 @@
   "pris": 1400,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.intersport.no/swix-q5-pole-red-unisex-xcq50-00"
  },
  "Intersport:swix-xcq60-00-white-00100_ino_no": {
@@ -757,6 +1736,7 @@
   "pris": 1100,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.intersport.no/swix-q6-pole-white-unisex-xcq60-00"
  },
  "Intersport:swix-xct50-00-red-90000_ino_no": {
@@ -776,6 +1756,7 @@
   "pris": 3920,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.intersport.no/swix-triac-50-pole-red-unisex-xct50-00"
  },
  "Milslukern:18930": {
@@ -795,6 +1776,7 @@
   "pris": 2799,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.milslukern.no/swix-29-quantum-1-p18930/nc-1375-v102919"
  },
  "Milslukern:18931": {
@@ -814,6 +1796,7 @@
   "pris": 2199,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.milslukern.no/swix-29-quantum-2-p18931/nc-1400-v102939"
  },
  "Milslukern:19343": {
@@ -833,6 +1816,7 @@
   "pris": 3999,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.milslukern.no/swix-29-triac-4-0-aero-carbon-composite-tidligere-lengdestandard-p19343/nc-1350-v105988"
  },
  "Milslukern:24179": {
@@ -852,6 +1836,7 @@
   "pris": 4500,
   "sist_sett": "2026-11-16",
   "type": "sko",
+  "undertype": "kombi",
   "url": "https://www.milslukern.no/fischer-52-rc5-combi-p24179/multicolour-37-v136115"
  },
  "Milslukern:24244": {
@@ -871,6 +1856,7 @@
   "pris": 3499,
   "sist_sett": "2026-11-16",
   "type": "sko",
+  "undertype": "kombi",
   "url": "https://www.milslukern.no/fischer-52-rc3-combi-p24244/multicolour-37-v136512"
  },
  "Milslukern:24786": {
@@ -890,6 +1876,7 @@
   "pris": 2799,
   "sist_sett": "2026-11-16",
   "type": "sko",
+  "undertype": "kombi",
   "url": "https://www.milslukern.no/madshus-54-endurace-universal-p24786/black-37-v139658"
  },
  "Milslukern:26611": {
@@ -909,6 +1896,7 @@
   "pris": 1999,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.milslukern.no/leki-268-prc-850-p26611/anthracite-135-cm-v123768"
  },
  "Milslukern:26761": {
@@ -928,6 +1916,7 @@
   "pris": 3599,
   "sist_sett": "2026-11-16",
   "type": "sko",
+  "undertype": "kombi",
   "url": "https://www.milslukern.no/fischer-52-rc3-combi-p26761/multicolour-36-v155787"
  },
  "Milslukern:26951": {
@@ -947,7 +1936,108 @@
   "pris": 4799,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.milslukern.no/one-way-504-premio-40-p26951/multicolour-140-v157297"
+ },
+ "Milslukern:26952-157314": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    5499
+   ]
+  ],
+  "laveste": 5499,
+  "laveste_dato": "2026-11-16",
+  "merke": "Salomon",
+  "navn": "S/MAX Skate MV",
+  "pris": 5499,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.milslukern.no/salomon-67-s-max-skate-mv-p26952/black-process-blue-x-4-5-v157314"
+ },
+ "Milslukern:27129": {
+  "butikk": "Milslukern",
+  "forpris": 3299,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    989
+   ]
+  ],
+  "laveste": 989,
+  "laveste_dato": "2026-11-16",
+  "merke": "Salomon",
+  "navn": "RC10 Prolink",
+  "pris": 989,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.milslukern.no/salomon-67-rc10-prolink-p27129/black-process-blue-8-v158492"
+ },
+ "Milslukern:27132-158524": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    5999
+   ]
+  ],
+  "laveste": 5999,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Carbon skate",
+  "pris": 5999,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.milslukern.no/fischer-52-carbon-skate-p27132/multicolour-38-v158524"
+ },
+ "Milslukern:27343-159242": {
+  "butikk": "Milslukern",
+  "forpris": 7199,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    4319
+   ]
+  ],
+  "laveste": 4319,
+  "laveste_dato": "2026-11-16",
+  "merke": "Salomon",
+  "navn": "S/Race Skate BOA",
+  "pris": 4319,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.milslukern.no/salomon-67-s-race-skate-boa-p27343/black-race-blue-40-v159242"
+ },
+ "Milslukern:27564": {
+  "butikk": "Milslukern",
+  "forpris": 2399,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    1199
+   ]
+  ],
+  "laveste": 1199,
+  "laveste_dato": "2026-11-16",
+  "merke": "Atomic",
+  "navn": "Pro C1 klassisk sko",
+  "pris": 1199,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.milslukern.no/atomic-437-pro-c1-klassisk-sko-p27564/no-color-42-2-3-v160411"
  },
  "Milslukern:27601": {
   "butikk": "Milslukern",
@@ -966,6 +2056,27 @@
   "pris": 3799,
   "sist_sett": "2026-11-16",
   "type": "sko",
+  "undertype": "kombi",
+  "url": "https://www.milslukern.no/madshus-54-race-speed-univeral-p27601/black-37-v160478"
+ },
+ "Milslukern:27601-160478": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3799
+   ]
+  ],
+  "laveste": 3799,
+  "laveste_dato": "2026-11-16",
+  "merke": "Madshus",
+  "navn": "Race Speed Univeral",
+  "pris": 3799,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "kombi",
   "url": "https://www.milslukern.no/madshus-54-race-speed-univeral-p27601/black-37-v160478"
  },
  "Milslukern:29183": {
@@ -985,7 +2096,128 @@
   "pris": 4319,
   "sist_sett": "2026-11-16",
   "type": "sko",
+  "undertype": "kombi",
   "url": "https://www.milslukern.no/salomon-67-s-race-skiathlon-boa-p29183/black-race-blue-38-2-3-v171749"
+ },
+ "Milslukern:29183-171749": {
+  "butikk": "Milslukern",
+  "forpris": 7199,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    4319
+   ]
+  ],
+  "laveste": 4319,
+  "laveste_dato": "2026-11-16",
+  "merke": "Salomon",
+  "navn": "S/Race Skiathlon BOA®",
+  "pris": 4319,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "kombi",
+  "url": "https://www.milslukern.no/salomon-67-s-race-skiathlon-boa-p29183/black-race-blue-38-2-3-v171749"
+ },
+ "Milslukern:29798": {
+  "butikk": "Milslukern",
+  "forpris": 4999,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3199
+   ]
+  ],
+  "laveste": 3199,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Speedmax 7 Classic",
+  "pris": 3199,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.milslukern.no/fischer-52-speedmax-7-classic-p29798/multicolour-46-v177008"
+ },
+ "Milslukern:30107-179101": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    11499
+   ]
+  ],
+  "laveste": 11499,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Speedmax 9 Skate RL BOA",
+  "pris": 11499,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.milslukern.no/fischer-52-speedmax-9-skate-rl-boa-p30107/242-multicolour-38-v179101"
+ },
+ "Milslukern:30115": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    8999
+   ]
+  ],
+  "laveste": 8999,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Speedmax 9 Classic RL BOA",
+  "pris": 8999,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.milslukern.no/fischer-52-speedmax-9-classic-rl-boa-p30115/242-multicolour-38-v179147"
+ },
+ "Milslukern:30118-181580": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    7799
+   ]
+  ],
+  "laveste": 7799,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Speedmax 7 Skate",
+  "pris": 7799,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.milslukern.no/fischer-52-speedmax-7-skate-p30118/242-multicolour-37-v181580"
+ },
+ "Milslukern:30277": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    4199
+   ]
+  ],
+  "laveste": 4199,
+  "laveste_dato": "2026-11-16",
+  "merke": "Salomon",
+  "navn": "S/Max Classic Shoe Unisex",
+  "pris": 4199,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.milslukern.no/salomon-67-s-max-classic-shoe-unisex-p30277/black-race-blue-37-1-3-v180185"
  },
  "Milslukern:30298": {
   "butikk": "Milslukern",
@@ -1004,7 +2236,48 @@
   "pris": 2799,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.milslukern.no/swix-29-q2-pole-p30298/white-135-v180312"
+ },
+ "Milslukern:30301-180347": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    4799
+   ]
+  ],
+  "laveste": 4799,
+  "laveste_dato": "2026-11-16",
+  "merke": "Madshus",
+  "navn": "Pulse BOA® SKATE",
+  "pris": 4799,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.milslukern.no/madshus-54-pulse-boa-skate-p30301/tbd-38-v180347"
+ },
+ "Milslukern:30327": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3599
+   ]
+  ],
+  "laveste": 3599,
+  "laveste_dato": "2026-11-16",
+  "merke": "Madshus",
+  "navn": "Pulse BOA® CLASSIC",
+  "pris": 3599,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.milslukern.no/madshus-54-pulse-boa-classic-p30327/tbd-38-v180442"
  },
  "Milslukern:30501": {
   "butikk": "Milslukern",
@@ -1023,7 +2296,288 @@
   "pris": 999,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.milslukern.no/swix-29-q6-pole-p30501/00100-white-135-v181469"
+ },
+ "Milslukern:30583-181911": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    10499
+   ]
+  ],
+  "laveste": 10499,
+  "laveste_dato": "2026-11-16",
+  "merke": "Madshus",
+  "navn": "Redline Skate X BOA",
+  "pris": 10499,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.milslukern.no/madshus-54-redline-skate-x-boa-p30583/multi-42-v181911"
+ },
+ "Milslukern:30647": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    7499
+   ]
+  ],
+  "laveste": 7499,
+  "laveste_dato": "2026-11-16",
+  "merke": "Madshus",
+  "navn": "Redline Boa® Classic",
+  "pris": 7499,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.milslukern.no/madshus-54-redline-boa-classic-p30647/red-black-38-v182191"
+ },
+ "Milslukern:30696-182407": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    4999
+   ]
+  ],
+  "laveste": 4999,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "RC5 Skate BOA",
+  "pris": 4999,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.milslukern.no/fischer-52-rc5-skate-boa-p30696/sort-42-v182407"
+ },
+ "Milslukern:31020": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    11999
+   ]
+  ],
+  "laveste": 11999,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Speedmax 9 Skiathlon Boa",
+  "pris": 11999,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "kombi",
+  "url": "https://www.milslukern.no/fischer-52-speedmax-9-skiathlon-boa-p31020/multicolour-39-v183988"
+ },
+ "Milslukern:31020-183988": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    11999
+   ]
+  ],
+  "laveste": 11999,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Speedmax 9 Skiathlon Boa",
+  "pris": 11999,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "kombi",
+  "url": "https://www.milslukern.no/fischer-52-speedmax-9-skiathlon-boa-p31020/multicolour-39-v183988"
+ },
+ "Milslukern:31038-199497": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    9699
+   ]
+  ],
+  "laveste": 9699,
+  "laveste_dato": "2026-11-16",
+  "merke": "Salomon",
+  "navn": "S/Lab Equipe Skate BOA®",
+  "pris": 9699,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.milslukern.no/salomon-67-s-lab-equipe-skate-boa-p31038/black-race-blue-equipe-red-38-v199497"
+ },
+ "Milslukern:31047": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    7699
+   ]
+  ],
+  "laveste": 7699,
+  "laveste_dato": "2026-11-16",
+  "merke": "Salomon",
+  "navn": "S/Lab Equipe Classic BOA®",
+  "pris": 7699,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.milslukern.no/salomon-67-s-lab-equipe-classic-boa-p31047/black-race-blue-equipe-red-38-v197294"
+ },
+ "Milslukern:31114": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3499
+   ]
+  ],
+  "laveste": 3499,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "RCS Classic",
+  "pris": 3499,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.milslukern.no/fischer-52-rcs-classic-p31114/multicolour-38-v184749"
+ },
+ "Milslukern:32734": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    1799
+   ]
+  ],
+  "laveste": 1799,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "XC TOURING",
+  "pris": 1799,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.milslukern.no/fischer-52-xc-touring-p32734/multicolour-41-v195651"
+ },
+ "Milslukern:33138-199482": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    8499
+   ]
+  ],
+  "laveste": 8499,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Speedmax 7 Skate Boa",
+  "pris": 8499,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.milslukern.no/fischer-52-speedmax-7-skate-boa-p33138/multicolour-37-v199482"
+ },
+ "Milslukern:33139": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    5799
+   ]
+  ],
+  "laveste": 5799,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Speedmax 7 Classic Boa",
+  "pris": 5799,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.milslukern.no/fischer-52-speedmax-7-classic-boa-p33139/multicolour-37-v198644"
+ },
+ "Milslukern:33140": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    5699
+   ]
+  ],
+  "laveste": 5699,
+  "laveste_dato": "2026-11-16",
+  "merke": "Salomon",
+  "navn": "Equipe Race Classic Boa",
+  "pris": 5699,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.milslukern.no/salomon-67-equipe-race-classic-boa-p33140/black-race-blue-equipe-red-37-1-3-v198654"
+ },
+ "Milslukern:33141": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    4499
+   ]
+  ],
+  "laveste": 4499,
+  "laveste_dato": "2026-11-16",
+  "merke": "Salomon",
+  "navn": "Equipe Pro Classic Boa",
+  "pris": 4499,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.milslukern.no/salomon-67-equipe-pro-classic-boa-p33141/black-race-blue-5-v198672"
+ },
+ "Milslukern:33142-198689": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    7199
+   ]
+  ],
+  "laveste": 7199,
+  "laveste_dato": "2026-11-16",
+  "merke": "Salomon",
+  "navn": "Equipe Race Skate Boa",
+  "pris": 7199,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.milslukern.no/salomon-67-equipe-race-skate-boa-p33142/black-race-blue-equipe-red-38-2-3-v198689"
  },
  "Milslukern:33143": {
   "butikk": "Milslukern",
@@ -1042,7 +2596,48 @@
   "pris": 3599,
   "sist_sett": "2026-11-16",
   "type": "sko",
+  "undertype": "kombi",
   "url": "https://www.milslukern.no/salomon-67-pro-combi-sc-p33143/no-color-4-5-v198703"
+ },
+ "Milslukern:33143-198703": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3599
+   ]
+  ],
+  "laveste": 3599,
+  "laveste_dato": "2026-11-16",
+  "merke": "Salomon",
+  "navn": "Pro Combi SC",
+  "pris": 3599,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "kombi",
+  "url": "https://www.milslukern.no/salomon-67-pro-combi-sc-p33143/no-color-4-5-v198703"
+ },
+ "Milslukern:33144-198721": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    6799
+   ]
+  ],
+  "laveste": 6799,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Speedmax 6 Skate Boa",
+  "pris": 6799,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.milslukern.no/fischer-52-speedmax-6-skate-boa-p33144/multicolour-37-v198721"
  },
  "Milslukern:33154": {
   "butikk": "Milslukern",
@@ -1061,7 +2656,128 @@
   "pris": 4800,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.milslukern.no/oneway-556-premio-30-mv-racing-p33154/orange-135cm-v198777"
+ },
+ "Milslukern:33179-198857": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    4299
+   ]
+  ],
+  "laveste": 4299,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "RC5 Skate",
+  "pris": 4299,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.milslukern.no/fischer-52-rc5-skate-p33179/multicolour-38-v198857"
+ },
+ "Milslukern:33231-199142": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    5999
+   ]
+  ],
+  "laveste": 5999,
+  "laveste_dato": "2026-11-16",
+  "merke": "Salomon",
+  "navn": "Salomon Equipe Pro Skate BOA®",
+  "pris": 5999,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.milslukern.no/salomon-67-salomon-equipe-pro-skate-boa-p33231/black-race-blue-38-v199142"
+ },
+ "Sport 1:alpina-al5357-sort-r-d-1k31_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    1999
+   ]
+  ],
+  "laveste": 1999,
+  "laveste_dato": "2026-11-16",
+  "merke": "Alpina",
+  "navn": "Skisko T 10 Tur",
+  "pris": 1999,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.sport1.no/alpina-skisko-t-10-tur-sortrod-unisex-al5357"
+ },
+ "Sport 1:alpina-al5411-red-white-black-g825_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    4999
+   ]
+  ],
+  "laveste": 4999,
+  "laveste_dato": "2026-11-16",
+  "merke": "Alpina",
+  "navn": "Skisko Comp CL",
+  "pris": 4999,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.sport1.no/alpina-skisko-comp-cl-redwhiteblack-unisex-al5411"
+ },
+ "Sport 1:alpina-al54341k-black-red-al015_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    1999
+   ]
+  ],
+  "laveste": 1999,
+  "laveste_dato": "2026-11-16",
+  "merke": "Alpina",
+  "navn": "T 10",
+  "pris": 1999,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.sport1.no/alpina-t-10-blackred-unisex-al54341k"
+ },
+ "Sport 1:alpina-al54391k-black-al001_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    2999
+   ]
+  ],
+  "laveste": 2999,
+  "laveste_dato": "2026-11-16",
+  "merke": "Alpina",
+  "navn": "Skisko Action CL",
+  "pris": 2999,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.sport1.no/alpina-skisko-action-cl-black-unisex-al54391k"
  },
  "Sport 1:alpina-al54401k-black-al001_sport1_no": {
   "butikk": "Sport 1",
@@ -1080,6 +2796,7 @@
   "pris": 3199,
   "sist_sett": "2026-11-16",
   "type": "sko",
+  "undertype": "kombi",
   "url": "https://www.sport1.no/alpina-skisko-action-co-black-unisex-al54401k"
  },
  "Sport 1:atomic-aj5005800-grey---black-242_sport1_no": {
@@ -1099,6 +2816,7 @@
   "pris": 2000,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.sport1.no/atomic-pro-carbon-qrs-grey-black-unisex-aj5005800"
  },
  "Sport 1:atomic-aj5005802-black-242_sport1_no": {
@@ -1118,6 +2836,7 @@
   "pris": 700,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.sport1.no/atomic-savor-black-unisex-aj5005802"
  },
  "Sport 1:atomic-aj5005814-black-242_sport1_no": {
@@ -1137,6 +2856,7 @@
   "pris": 800,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.sport1.no/atomic-savor-qrs-black-unisex-aj5005814"
  },
  "Sport 1:atomic-aj5005904-red-tension-242_sport1_no": {
@@ -1156,7 +2876,28 @@
   "pris": 3500,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.sport1.no/atomic-redster-wc-qrs-red-tension-unisex-aj5005904"
+ },
+ "Sport 1:fischer-s04325-multicolour-242_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": 11500,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    9199
+   ]
+  ],
+  "laveste": 9199,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Speedmax 9 Skate Rl Boa",
+  "pris": 9199,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.sport1.no/fischer-speedmax-9-skate-rl-boa-multicolour-unisex-s04325"
  },
  "Sport 1:fischer-s05525-multicolour-242_sport1_no": {
   "butikk": "Sport 1",
@@ -1175,7 +2916,268 @@
   "pris": 9599,
   "sist_sett": "2026-11-16",
   "type": "sko",
+  "undertype": "kombi",
   "url": "https://www.sport1.no/fischer-speedmax-9-skiathlon-boa-multicolour-unisex-s05525"
+ },
+ "Sport 1:fischer-s06325-multicolour-242_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": 9000,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    7199
+   ]
+  ],
+  "laveste": 7199,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Speedmax 9 Classic Rl Boa",
+  "pris": 7199,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.sport1.no/fischer-speedmax-9-classic-rl-boa-multicolour-unisex-s06325"
+ },
+ "Sport 1:fischer-s10025-multicolour-242_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": 7800,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    6239
+   ]
+  ],
+  "laveste": 6239,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Speedmax 7 Skate",
+  "pris": 6239,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.sport1.no/fischer-speedmax-7-skate-multicolour-unisex-s10025"
+ },
+ "Sport 1:fischer-s10026-multicolour-242_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": 8500,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    6799
+   ]
+  ],
+  "laveste": 6799,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Speedmax 7 Skate Boa",
+  "pris": 6799,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.sport1.no/fischer-speedmax-7-skate-boa-multicolour-unisex-s10026"
+ },
+ "Sport 1:fischer-s10525-multicolour-242_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": 5000,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3999
+   ]
+  ],
+  "laveste": 3999,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Speedmax 7 Classic",
+  "pris": 3999,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.sport1.no/fischer-speedmax-7-classic-multicolour-unisex-s10525"
+ },
+ "Sport 1:fischer-s10526-multicolour-242_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": 5800,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    4639
+   ]
+  ],
+  "laveste": 4639,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Speedmax 7 Classic Boa",
+  "pris": 4639,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.sport1.no/fischer-speedmax-7-classic-boa-multicolour-unisex-s10526"
+ },
+ "Sport 1:fischer-s12526-multicolour-242_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": 4800,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3839
+   ]
+  ],
+  "laveste": 3839,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Speedmax 6 Classic Boa",
+  "pris": 3839,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.sport1.no/fischer-speedmax-6-classic-boa-multicolour-unisex-s12526"
+ },
+ "Sport 1:fischer-s15024-multicolour-242_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": 6500,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    5199
+   ]
+  ],
+  "laveste": 5199,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Carbon Skate",
+  "pris": 5199,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.sport1.no/fischer-carbon-skate-multicolour-unisex-s15024"
+ },
+ "Sport 1:fischer-s15026-multicolour-242_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": 6800,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    5439
+   ]
+  ],
+  "laveste": 5439,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Speedmax 6 Skate Boa",
+  "pris": 5439,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.sport1.no/fischer-speedmax-6-skate-boa-multicolour-unisex-s15026"
+ },
+ "Sport 1:fischer-s15226-multicolour-242_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    4800
+   ]
+  ],
+  "laveste": 4800,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Rc5 Skate Boa",
+  "pris": 4800,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.sport1.no/fischer-rc5-skate-boa-multicolour-unisex-s15226"
+ },
+ "Sport 1:fischer-s15421-multicolour-242_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3700
+   ]
+  ],
+  "laveste": 3700,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Rc5 Skate",
+  "pris": 3700,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.sport1.no/fischer-rc5-skate-multicolour-unisex-s15421"
+ },
+ "Sport 1:fischer-s15624v-multicolour-242_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3600
+   ]
+  ],
+  "laveste": 3600,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Rc3 Skate",
+  "pris": 3600,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.sport1.no/fischer-rc3-skate-multicolour-unisex-s15624v"
+ },
+ "Sport 1:fischer-s17023-multicolour-242_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3400
+   ]
+  ],
+  "laveste": 3400,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Rc5 Classic",
+  "pris": 3400,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.sport1.no/fischer-rc5-classic-multicolour-unisex-s17023"
+ },
+ "Sport 1:fischer-s17224v-multicolour-242_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    2700
+   ]
+  ],
+  "laveste": 2700,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Rc3 Classic",
+  "pris": 2700,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.sport1.no/fischer-rc3-classic-multicolour-unisex-s17224v"
  },
  "Sport 1:fischer-s18724v-multicolour-242_sport1_no": {
   "butikk": "Sport 1",
@@ -1194,6 +3196,7 @@
   "pris": 2799,
   "sist_sett": "2026-11-16",
   "type": "sko",
+  "undertype": "kombi",
   "url": "https://www.sport1.no/fischer-rc3-combi-multicolour-unisex-s18724v"
  },
  "Sport 1:fischer-s18824v-multicolour-242_sport1_no": {
@@ -1213,7 +3216,148 @@
   "pris": 3000,
   "sist_sett": "2026-11-16",
   "type": "sko",
+  "undertype": "kombi",
   "url": "https://www.sport1.no/fischer-rc1-combi-multicolour-unisex-s18824v"
+ },
+ "Sport 1:fischer-s20524-multicolour-242_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    2500
+   ]
+  ],
+  "laveste": 2500,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Xc Control",
+  "pris": 2500,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.sport1.no/fischer-xc-control-multicolour-unisex-s20524"
+ },
+ "Sport 1:fischer-s20723-multicolour-242_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    2300
+   ]
+  ],
+  "laveste": 2300,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Xc Comfort Pro",
+  "pris": 2300,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.sport1.no/fischer-xc-comfort-pro-multicolour-unisex-s20723"
+ },
+ "Sport 1:fischer-s21622-multicolour-242_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    1900
+   ]
+  ],
+  "laveste": 1900,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Xc Touring",
+  "pris": 1900,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.sport1.no/fischer-xc-touring-multicolour-unisex-s21622"
+ },
+ "Sport 1:fischer-s21625-multicolour-242_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    1299
+   ]
+  ],
+  "laveste": 1299,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Xc Touring",
+  "pris": 1299,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.sport1.no/fischer-xc-touring-multicolour-unisex-s21625"
+ },
+ "Sport 1:fischer-s44521-multicolour-242_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    2500
+   ]
+  ],
+  "laveste": 2500,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Xc Lite",
+  "pris": 2500,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.sport1.no/fischer-xc-lite-multicolour-unisex-s44521"
+ },
+ "Sport 1:fischer-s45220-242-multicolour-242_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    1799
+   ]
+  ],
+  "laveste": 1799,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Xc Cruiser",
+  "pris": 1799,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.sport1.no/fischer-xc-cruiser-242multicolour-unisex-s45220"
+ },
+ "Sport 1:fischer-s45225-multicolour-242_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    1799
+   ]
+  ],
+  "laveste": 1799,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Xc Cruiser",
+  "pris": 1799,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.sport1.no/fischer-xc-cruiser-multicolour-unisex-s45225"
  },
  "Sport 1:fischer-z43525-multicolour-242_sport1_no": {
   "butikk": "Sport 1",
@@ -1232,6 +3376,7 @@
   "pris": 500,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.sport1.no/fischer-tour-multicolour-unisex-z43525"
  },
  "Sport 1:leki-65241801-neonyellow-black-white-_sport1_no": {
@@ -1251,6 +3396,7 @@
   "pris": 1299,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.sport1.no/leki-cc-450-neonyellow-black-white-alle-65241801"
  },
  "Sport 1:leki-65249131-black-grey-_sport1_no": {
@@ -1270,7 +3416,48 @@
   "pris": 599,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.sport1.no/leki-xta-tour-blackgrey-unisex-65249131"
+ },
+ "Sport 1:madshus-md251340-tbd-_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    2999
+   ]
+  ],
+  "laveste": 2999,
+  "laveste_dato": "2026-11-16",
+  "merke": "Madshus",
+  "navn": "Pulse BOA® CLASSIC",
+  "pris": 2999,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.sport1.no/madshus-pulse-boar-classic-tbd-unisex-md251340"
+ },
+ "Sport 1:madshus-md251342-tbd-_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    4800
+   ]
+  ],
+  "laveste": 4800,
+  "laveste_dato": "2026-11-16",
+  "merke": "Madshus",
+  "navn": "Pulse BOA® SKATE",
+  "pris": 4800,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.sport1.no/madshus-pulse-boar-skate-tbd-unisex-md251342"
  },
  "Sport 1:madshus-md251343-tbd-_sport1_no": {
   "butikk": "Sport 1",
@@ -1289,7 +3476,88 @@
   "pris": 4800,
   "sist_sett": "2026-11-16",
   "type": "sko",
+  "undertype": "kombi",
   "url": "https://www.sport1.no/madshus-pulse-boar-universal-tbd-unisex-md251343"
+ },
+ "Sport 1:madshus-md251552-red-black-_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": 7500,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    6000
+   ]
+  ],
+  "laveste": 6000,
+  "laveste_dato": "2026-11-16",
+  "merke": "Madshus",
+  "navn": "Redline Boa® Classic",
+  "pris": 6000,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.sport1.no/madshus-redline-boar-classic-redblack-unisex-md251552"
+ },
+ "Sport 1:madshus-md251553-red-black-_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": 10300,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    8240
+   ]
+  ],
+  "laveste": 8240,
+  "laveste_dato": "2026-11-16",
+  "merke": "Madshus",
+  "navn": "Redline Boa® Skate",
+  "pris": 8240,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.sport1.no/madshus-redline-boar-skate-redblack-unisex-md251553"
+ },
+ "Sport 1:madshus-n220400401-black-_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    2800
+   ]
+  ],
+  "laveste": 2800,
+  "laveste_dato": "2026-11-16",
+  "merke": "Madshus",
+  "navn": "Endurace Skate",
+  "pris": 2800,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.sport1.no/madshus-endurace-skate-black-unisex-n220400401"
+ },
+ "Sport 1:madshus-n220401101-black-_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    1600
+   ]
+  ],
+  "laveste": 1600,
+  "laveste_dato": "2026-11-16",
+  "merke": "Madshus",
+  "navn": "Nordic",
+  "pris": 1600,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.sport1.no/madshus-nordic-black-unisex-n220401101"
  },
  "Sport 1:one-way-oz40024-multicolour-242_sport1_no": {
   "butikk": "Sport 1",
@@ -1308,6 +3576,7 @@
   "pris": 4800,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.sport1.no/one-way-premio-40-multicolour-unisex-oz40024"
  },
  "Sport 1:one-way-oz41024-multicolour-242_sport1_no": {
@@ -1327,6 +3596,7 @@
   "pris": 3300,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.sport1.no/one-way-storm-1-multicolour-unisex-oz41024"
  },
  "Sport 1:one-way-oz41224-multicolour-242_sport1_no": {
@@ -1346,6 +3616,7 @@
   "pris": 2500,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.sport1.no/one-way-storm-2-multicolour-unisex-oz41224"
  },
  "Sport 1:one-way-oz42822-multicolour-242_sport1_no": {
@@ -1365,6 +3636,7 @@
   "pris": 1350,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.sport1.no/one-way-storm-6-mag-dark-multicolour-unisex-oz42822"
  },
  "Sport 1:one-way-oz42922-multicolour-242_sport1_no": {
@@ -1384,6 +3656,7 @@
   "pris": 1200,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.sport1.no/one-way-storm-6-dark-multicolour-unisex-oz42922"
  },
  "Sport 1:one-way-oz43021-multicolour-242_sport1_no": {
@@ -1403,6 +3676,7 @@
   "pris": 1050,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.sport1.no/one-way-diamond-1-mag-multicolour-unisex-oz43021"
  },
  "Sport 1:one-way-oz43026-multicolour-242_sport1_no": {
@@ -1422,6 +3696,7 @@
   "pris": 799,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.sport1.no/one-way-diamond-1-mag-multicolour-unisex-oz43026"
  },
  "Sport 1:one-way-oz43121-multicolour-242_sport1_no": {
@@ -1441,6 +3716,7 @@
   "pris": 900,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.sport1.no/one-way-diamond-1-multicolour-unisex-oz43121"
  },
  "Sport 1:one-way-oz43321-multicolour-242_sport1_no": {
@@ -1460,6 +3736,7 @@
   "pris": 500,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.sport1.no/one-way-diamond-3-multicolour-unisex-oz43321"
  },
  "Sport 1:one-way-oz48325-multicolour-242_sport1_no": {
@@ -1479,6 +3756,7 @@
   "pris": 1600,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.sport1.no/one-way-storm-xc-mag-multicolour-unisex-oz48325"
  },
  "Sport 1:one-way-oz48521-multicolour-242_sport1_no": {
@@ -1498,7 +3776,128 @@
   "pris": 1800,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.sport1.no/one-way-storm-pro-multicolour-unisex-oz48521"
+ },
+ "Sport 1:rossignol-rik1260-onecolor-000_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3330
+   ]
+  ],
+  "laveste": 3330,
+  "laveste_dato": "2026-11-16",
+  "merke": "Rossignol",
+  "navn": "X-8 Classic",
+  "pris": 3330,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.sport1.no/rossignol-x-8-classic-onecolor-unisex-rik1260"
+ },
+ "Sport 1:rossignol-rin0060--000_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": 6500,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    5200
+   ]
+  ],
+  "laveste": 5200,
+  "laveste_dato": "2026-11-16",
+  "merke": "Rossignol",
+  "navn": "X-Ium Wcs Skate",
+  "pris": 5200,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.sport1.no/rossignol-x-ium-wcs-skate-unisex-rin0060"
+ },
+ "Sport 1:rossignol-rin0070--000_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": 5000,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    4000
+   ]
+  ],
+  "laveste": 4000,
+  "laveste_dato": "2026-11-16",
+  "merke": "Rossignol",
+  "navn": "X-Ium Wcs Classic",
+  "pris": 4000,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.sport1.no/rossignol-x-ium-wcs-classic-unisex-rin0070"
+ },
+ "Sport 1:salomon-l41159000-black---process-blue-242_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    2499
+   ]
+  ],
+  "laveste": 2499,
+  "laveste_dato": "2026-11-16",
+  "merke": "Salomon",
+  "navn": "Rc9 Nocturne Prolink",
+  "pris": 2499,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.sport1.no/salomon-rc9-nocturne-prolink-blackprocess-blue-herre-l41159000"
+ },
+ "Sport 1:salomon-l47029800-dark-navy---black---process-blue-242_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    4200
+   ]
+  ],
+  "laveste": 4200,
+  "laveste_dato": "2026-11-16",
+  "merke": "Salomon",
+  "navn": "Rs8 Prolink",
+  "pris": 4200,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.sport1.no/salomon-rs8-prolink-dark-navyblackprocess-blue-herre-l47029800"
+ },
+ "Sport 1:salomon-l47030700-black-242_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    1800
+   ]
+  ],
+  "laveste": 1800,
+  "laveste_dato": "2026-11-16",
+  "merke": "Salomon",
+  "navn": "Escape Rc Prolink",
+  "pris": 1800,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.sport1.no/salomon-escape-rc-prolink-black-unisex-l47030700"
  },
  "Sport 1:salomon-l49288000-no-color-242_sport1_no": {
   "butikk": "Sport 1",
@@ -1517,6 +3916,7 @@
   "pris": 2400,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.sport1.no/salomon-equipe-pro-click-no-color-unisex-l49288000"
  },
  "Sport 1:salomon-l49288300-no-color-242_sport1_no": {
@@ -1536,6 +3936,7 @@
   "pris": 4000,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.sport1.no/salomon-slab-equipe-click-no-color-unisex-l49288300"
  },
  "Sport 1:swix-et111-01--nocolor_sport1_no": {
@@ -1555,6 +3956,7 @@
   "pris": 549,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.sport1.no/swix-elite-sonic-touring-unisex-et111-01"
  },
  "Sport 1:swix-rcq21-00-nocolor-nocolor_sport1_no": {
@@ -1574,6 +3976,7 @@
   "pris": 2000,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.sport1.no/swix-quantum-q2-pole-nocolor-unisex-rcq21-00"
  },
  "Sport 1:swix-xcq10-00-white-00100_sport1_no": {
@@ -1593,6 +3996,7 @@
   "pris": 3300,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.sport1.no/swix-q1-pole-white-unisex-xcq10-00"
  },
  "Sport 1:swix-xcq20-00-white-00100_sport1_no": {
@@ -1612,6 +4016,7 @@
   "pris": 2800,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.sport1.no/swix-q2-pole-white-unisex-xcq20-00"
  },
  "Sport 1:swix-xcq50-00-red-90000_sport1_no": {
@@ -1631,6 +4036,7 @@
   "pris": 1400,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.sport1.no/swix-q5-pole-red-unisex-xcq50-00"
  },
  "XXL:1177729_1_Style": {
@@ -1650,7 +4056,48 @@
   "pris": 999,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.xxl.no/madshus-xc-poles-race-speed-25-26-langrennsstav-klassisk-og-skoyting-svart/p/1177729_1_Style"
+ },
+ "XXL:1190507_1_Style": {
+  "butikk": "XXL",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3129
+   ]
+  ],
+  "laveste": 3129,
+  "laveste_dato": "2026-11-16",
+  "merke": "Madshus",
+  "navn": "XC Boots Race Speed Skate 25/26, skøytestøvel",
+  "pris": 3129,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.xxl.no/madshus-xc-boots-race-speed-skate-25-26-skoytestovel-svart/p/1190507_1_Style"
+ },
+ "XXL:1190509_1_Style": {
+  "butikk": "XXL",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    2480
+   ]
+  ],
+  "laveste": 2480,
+  "laveste_dato": "2026-11-16",
+  "merke": "Madshus",
+  "navn": "XC Boots Race Speed Classic, klassiskstøvel",
+  "pris": 2480,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.xxl.no/madshus-xc-boots-race-speed-classic-klassiskstovel-svart/p/1190509_1_Style"
  },
  "XXL:1201134_1_Style": {
   "butikk": "XXL",
@@ -1669,6 +4116,7 @@
   "pris": 449,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.xxl.no/swix-xc-poles-dynamic-d1-25-26-langrennsstav/p/1201134_1_Style"
  },
  "XXL:1201135_1_Style": {
@@ -1688,7 +4136,188 @@
   "pris": 269,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.xxl.no/swix-xc-poles-dynamic-d2-langrennsstav/p/1201135_1_Style"
+ },
+ "XXL:1221201_1_Style": {
+  "butikk": "XXL",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    1749
+   ]
+  ],
+  "laveste": 1749,
+  "laveste_dato": "2026-11-16",
+  "merke": "Rossignol",
+  "navn": "XC Boots X-8 Classic, klassisk langrennsstøvel",
+  "pris": 1749,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.xxl.no/rossignol-xc-boots-x-8-classic-klassisk-langrennsstovel-flerfarget/p/1221201_1_Style"
+ },
+ "XXL:1221203_1_Style": {
+  "butikk": "XXL",
+  "forpris": 1999,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    1599
+   ]
+  ],
+  "laveste": 1599,
+  "laveste_dato": "2026-11-16",
+  "merke": "Rossignol",
+  "navn": "XC Boots X-8 Skate 24/25, skøytestøvel",
+  "pris": 1599,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.xxl.no/rossignol-xc-boots-x-8-skate-24-25-skoytestovel-flerfarget/p/1221203_1_Style"
+ },
+ "XXL:1221208_1_Style": {
+  "butikk": "XXL",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    899
+   ]
+  ],
+  "laveste": 899,
+  "laveste_dato": "2026-11-16",
+  "merke": "Rossignol",
+  "navn": "XC Boots X-6 Skate 24/25, skøytestøvel",
+  "pris": 899,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.xxl.no/rossignol-xc-boots-x-6-skate-24-25-skoytestovel-flerfarget/p/1221208_1_Style"
+ },
+ "XXL:1221926_1_Style": {
+  "butikk": "XXL",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    1520
+   ]
+  ],
+  "laveste": 1520,
+  "laveste_dato": "2026-11-16",
+  "merke": "Madshus",
+  "navn": "XC Boots Active U 25/26, klassiskstøvel",
+  "pris": 1520,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.xxl.no/madshus-xc-boots-active-u-25-26-klassiskstovel-svart/p/1221926_1_Style"
+ },
+ "XXL:1231519_1_Style": {
+  "butikk": "XXL",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    2320
+   ]
+  ],
+  "laveste": 2320,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "XC Boots XC Control 25/26, klassiske langrennsstøvler",
+  "pris": 2320,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.xxl.no/fischer-xc-boots-xc-control-25-26-klassiske-langrennsstovler-flerfarget/p/1231519_1_Style"
+ },
+ "XXL:1231525_1_Style": {
+  "butikk": "XXL",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    1579
+   ]
+  ],
+  "laveste": 1579,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "XC Boots XC Comfort 25/26, klassiske langrennsstøvler",
+  "pris": 1579,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.xxl.no/fischer-xc-boots-xc-comfort-25-26-klassiske-langrennsstovler-flerfarget/p/1231525_1_Style"
+ },
+ "XXL:1232547_1_Style": {
+  "butikk": "XXL",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3199
+   ]
+  ],
+  "laveste": 3199,
+  "laveste_dato": "2026-11-16",
+  "merke": "Alpina",
+  "navn": "Racing Classic Boots 25/26, klassisk langrennsstøvel",
+  "pris": 3199,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.xxl.no/alpina-racing-classic-boots-25-26-klassisk-langrennsstovel-svart/p/1232547_1_Style"
+ },
+ "XXL:1232548_1_Style": {
+  "butikk": "XXL",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3099
+   ]
+  ],
+  "laveste": 3099,
+  "laveste_dato": "2026-11-16",
+  "merke": "Alpina",
+  "navn": "Nordic Skate 25/26, skøytestøvel",
+  "pris": 3099,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.xxl.no/alpina-nordic-skate-25-26-skoytestovel-svart/p/1232548_1_Style"
+ },
+ "XXL:1232549_1_Style": {
+  "butikk": "XXL",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    2449
+   ]
+  ],
+  "laveste": 2449,
+  "laveste_dato": "2026-11-16",
+  "merke": "Alpina",
+  "navn": "Nordic CL Boots 25/26, klassisk langrennsstøvel",
+  "pris": 2449,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.xxl.no/alpina-nordic-cl-boots-25-26-klassisk-langrennsstovel-svart/p/1232549_1_Style"
  },
  "XXL:1232550_1_Style": {
   "butikk": "XXL",
@@ -1707,6 +4336,7 @@
   "pris": 2849,
   "sist_sett": "2026-11-16",
   "type": "sko",
+  "undertype": "kombi",
   "url": "https://www.xxl.no/alpina-nordic-combi-25-26-langrennsstovel-kombistovel-svart/p/1232550_1_Style"
  },
  "XXL:1232850_1_Style": {
@@ -1726,6 +4356,7 @@
   "pris": 720,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.xxl.no/skigo-xc-poles-trainer-comp-carbon-25-26-langrennsstav-bla/p/1232850_1_Style"
  },
  "XXL:1242033_1_Style": {
@@ -1745,7 +4376,28 @@
   "pris": 399,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.xxl.no/swix-xc-pole-dynamic-d3-24-25-langrennsstav/p/1242033_1_Style"
+ },
+ "XXL:1242976_1_Style": {
+  "butikk": "XXL",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    2949
+   ]
+  ],
+  "laveste": 2949,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "XC Boots RC Team Skate 25/26, skøyteskisko, unisex",
+  "pris": 2949,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.xxl.no/fischer-xc-boots-rc-team-skate-25-26-skoyteskisko-unisex-flerfarget/p/1242976_1_Style"
  },
  "XXL:1243366_1_Style": {
   "butikk": "XXL",
@@ -1764,6 +4416,7 @@
   "pris": 1249,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.xxl.no/swix-xc-poles-dynamic-d1-25-26-langrennsstav-unisex-rod/p/1243366_1_Style"
  },
  "XXL:1243367_1_Style": {
@@ -1783,7 +4436,88 @@
   "pris": 999,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.xxl.no/swix-xc-poles-dynamic-d2-25-26-langrennsstav-unisex-bla/p/1243367_1_Style"
+ },
+ "XXL:1243416_1_Style": {
+  "butikk": "XXL",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3299
+   ]
+  ],
+  "laveste": 3299,
+  "laveste_dato": "2026-11-16",
+  "merke": "Rossignol",
+  "navn": "XC Boots X-9 Skate 25/26, skøytestøvel, unisex",
+  "pris": 3299,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.xxl.no/rossignol-xc-boots-x-9-skate-25-26-skoytestovel-unisex/p/1243416_1_Style"
+ },
+ "XXL:1243417_1_Style": {
+  "butikk": "XXL",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    2899
+   ]
+  ],
+  "laveste": 2899,
+  "laveste_dato": "2026-11-16",
+  "merke": "Rossignol",
+  "navn": "XC Boots X-9 Classic 25/26, langrennsko, unisex",
+  "pris": 2899,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.xxl.no/rossignol-xc-boots-x-9-classic-25-26-langrennsko-unisex/p/1243417_1_Style"
+ },
+ "XXL:1243418_1_Style": {
+  "butikk": "XXL",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    2479
+   ]
+  ],
+  "laveste": 2479,
+  "laveste_dato": "2026-11-16",
+  "merke": "Rossignol",
+  "navn": "XC Boots X-7 Skate 25/26, skøytestøvel, unisex",
+  "pris": 2479,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.xxl.no/rossignol-xc-boots-x-7-skate-25-26-skoytestovel-unisex/p/1243418_1_Style"
+ },
+ "XXL:1243419_1_Style": {
+  "butikk": "XXL",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    2049
+   ]
+  ],
+  "laveste": 2049,
+  "laveste_dato": "2026-11-16",
+  "merke": "Rossignol",
+  "navn": "XC Boots X-7 Classic 25/26, langrennsko, unisex",
+  "pris": 2049,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.xxl.no/rossignol-xc-boots-x-7-classic-25-26-langrennsko-unisex/p/1243419_1_Style"
  },
  "XXL:1243420_1_Style": {
   "butikk": "XXL",
@@ -1802,6 +4536,7 @@
   "pris": 2479,
   "sist_sett": "2026-11-16",
   "type": "sko",
+  "undertype": "kombi",
   "url": "https://www.xxl.no/rossignol-xc-boots-x-7-combi-25-26-kombistovel-unisex/p/1243420_1_Style"
  },
  "XXL:1243506_1_Style": {
@@ -1821,7 +4556,68 @@
   "pris": 879,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.xxl.no/leki-xc-poles-xta-5-5-shark-25-26-langrennsstav-unisex-svart/p/1243506_1_Style"
+ },
+ "XXL:1243858_1_Style": {
+  "butikk": "XXL",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    4099
+   ]
+  ],
+  "laveste": 4099,
+  "laveste_dato": "2026-11-16",
+  "merke": "Alpina",
+  "navn": "XC Boots Racing Skate 25/26, skøytestøvel, unisex",
+  "pris": 4099,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.xxl.no/alpina-xc-boots-racing-skate-25-26-skoytestovel-unisex-svart/p/1243858_1_Style"
+ },
+ "XXL:1243863_1_Style": {
+  "butikk": "XXL",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    1399
+   ]
+  ],
+  "laveste": 1399,
+  "laveste_dato": "2026-11-16",
+  "merke": "Alpina",
+  "navn": "XC Boots T 5 Plus 25/26, langrennsko, unisex",
+  "pris": 1399,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.xxl.no/alpina-xc-boots-t-5-plus-25-26-langrennsko-unisex-svart/p/1243863_1_Style"
+ },
+ "XXL:1261875_1_Style": {
+  "butikk": "XXL",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    1449
+   ]
+  ],
+  "laveste": 1449,
+  "laveste_dato": "2026-11-16",
+  "merke": "Madshus",
+  "navn": "Race Pro Skate, skøytestøvel, unisex",
+  "pris": 1449,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "skøyte",
+  "url": "https://www.xxl.no/madshus-race-pro-skate-skoytestovel-unisex-svart/p/1261875_1_Style"
  },
  "XXL:1284505_1_Style": {
   "butikk": "XXL",
@@ -1840,6 +4636,27 @@
   "pris": 1299,
   "sist_sett": "2026-11-16",
   "type": "staver",
+  "undertype": null,
   "url": "https://www.xxl.no/leki-xc-poles-cc-350-26-27-langrennsstav-svart/p/1284505_1_Style"
+ },
+ "XXL:1286391_1_Style": {
+  "butikk": "XXL",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    4000
+   ]
+  ],
+  "laveste": 4000,
+  "laveste_dato": "2026-11-16",
+  "merke": "Madshus",
+  "navn": "XC Boots Race Pro Classic, langrennsstøvel",
+  "pris": 4000,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "undertype": "klassisk",
+  "url": "https://www.xxl.no/madshus-xc-boots-race-pro-classic-langrennsstovel-svart/p/1286391_1_Style"
  }
 }
