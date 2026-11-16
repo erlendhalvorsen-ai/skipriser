@@ -1,0 +1,63 @@
+{
+  "profil": {
+    "skostorrelse": ["45"],
+    "stavlengder_cm": [157.5, 160]
+  },
+  "matcher_skiene": {
+    "beskrivelse": "Atomic Redster C2 Skin, rød/svart: Atomic eller rødt",
+    "merker": ["atomic"],
+    "farger": ["rød", "rod", "red", "redster"]
+  },
+  "varsel": {
+    "min_prisfall_kr": 50,
+    "min_prisfall_prosent": 5,
+    "min_rabatt_prosent_nytt_produkt": 25
+  },
+  "filter": {
+    "sko": {
+      "min_pris": 400,
+      "utelat": [
+        "skate*", "skøyt*", "skoyt*", "skating", "rs", "rs7", "rs8", "rs9", "rs10", "nsk", "fsk", "dp",
+        "bc", "bcx", "xplore", "75mm", "fjellski*", "backcountry", "outback", "outpath", "outrack",
+        "rulleski*", "roller*",
+        "junior", "jr", "j", "barn", "kids", "kid", "dame", "women*", "w", "wmn", "ws", "child", "female",
+        "sns", "pilot",
+        "overtrekk", "overboot", "cover", "gamasje*", "pose", "bag", "lisser", "såle*", "snowstar",
+        "alfa", "crispi", "lundhags", "scarpa", "åsnes"
+      ]
+    },
+    "staver": {
+      "min_pris": 250,
+      "utelat": [
+        "strap*", "stropp*", "trinse*", "basket*", "kurv*", "holk*", "håndtak*", "grip", "handle*", "wedge",
+        "pigg*", "spiss*", "tip", "tips", "lim", "kork", "bag", "pose", "trekk", "tube",
+        "junior", "jr", "barn", "kids", "kid", "child", "snowpath",
+        "rulleski*", "roller*",
+        "tele*", "fjell*", "backcountry", "bc", "mountain", "alpin*", "trail", "løpe*", "walking", "pulk*",
+        "åsnes"
+      ]
+    }
+  },
+  "kilder": [
+    {"butikk": "XXL", "type": "sko", "parser": "xxl",
+     "url": "https://www.xxl.no/sport/vintersport/langrenn/langrennsko/c/240206"},
+    {"butikk": "XXL", "type": "staver", "parser": "xxl",
+     "url": "https://www.xxl.no/sport/vintersport/langrenn/langrennstaver/c/240210"},
+    {"butikk": "Sport 1", "type": "sko", "parser": "sportholding",
+     "url": "https://www.sport1.no/vintersport/langrenn/langrennsstovler"},
+    {"butikk": "Sport 1", "type": "staver", "parser": "sportholding",
+     "url": "https://www.sport1.no/vintersport/langrenn/langrennstaver-og-deler"},
+    {"butikk": "Intersport", "type": "sko", "parser": "sportholding",
+     "url": "https://www.intersport.no/vintersport/langrenn/langrennsstovler"},
+    {"butikk": "Intersport", "type": "staver", "parser": "sportholding",
+     "url": "https://www.intersport.no/vintersport/langrenn/langrennstaver-og-deler"},
+    {"butikk": "Milslukern", "type": "sko", "parser": "milslukern",
+     "url": "https://www.milslukern.no/langrenn/sko/klassisk"},
+    {"butikk": "Milslukern", "type": "staver", "parser": "milslukern",
+     "url": "https://www.milslukern.no/langrenn/staver"},
+    {"butikk": "Fjellsport", "type": "sko", "parser": "fjellsport",
+     "url": "https://www.fjellsport.no/aktiviteter/langrenn/langrennsutstyr/langrennski-utstyr/langrennsko"},
+    {"butikk": "Fjellsport", "type": "staver", "parser": "fjellsport",
+     "url": "https://www.fjellsport.no/aktiviteter/langrenn/langrennsutstyr/langrennstaver"}
+  ]
+}

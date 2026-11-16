@@ -1,0 +1,43 @@
+name: Daglig prissjekk
+
+on:
+  schedule:
+    - cron: "17 5 * * *"   # hver dag ca. 06:17 (vintertid) / 07:17 (sommertid) norsk tid
+  workflow_dispatch:        # kan også startes for hånd under «Actions»
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency: prissjekk
+
+jobs:
+  sjekk:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Hent priser
+        run: python skipriser.py
+
+      - name: Lagre historikk og rapport
+        if: always()
+        run: |
+          git config user.name "skipriser"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A data RAPPORT.md
+          git diff --cached --quiet || git commit -m "Oppdater priser $(date +%F)"
+          git push
+
+      - name: Varsle ved prisfall (GitHub sender e-post)
+        if: hashFiles('varsel.md') != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          tittel="$(head -n 1 varsel.md)"
+          { tail -n +3 varsel.md; echo; echo "cc @${{ github.repository_owner }}"; } > kropp.md
+          gh issue create --repo "${{ github.repository }}" --title "$tittel" --body-file kropp.md
