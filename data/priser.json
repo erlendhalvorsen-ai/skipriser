@@ -56,6 +56,25 @@
   "type": "staver",
   "url": "https://www.fjellsport.no/merker/leki/leki-xta-tour-anthracite-510137"
  },
+ "Fjellsport:FS571398": {
+  "butikk": "Fjellsport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3199
+   ]
+  ],
+  "laveste": 3199,
+  "laveste_dato": "2026-11-16",
+  "merke": "Alpina",
+  "navn": "Skisko Action Co Black",
+  "pris": 3199,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "url": "https://www.fjellsport.no/merker/alpina/alpina-skisko-action-co-black-FS571398"
+ },
  "Fjellsport:FS610405": {
   "butikk": "Fjellsport",
   "forpris": 2999,
@@ -227,6 +246,25 @@
   "type": "staver",
   "url": "https://www.fjellsport.no/merker/swix/swix-infinity-sonic-alu-pole-black-nocolor-FS767082"
  },
+ "Intersport:alpina-al54401k-black-al001_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3199
+   ]
+  ],
+  "laveste": 3199,
+  "laveste_dato": "2026-11-16",
+  "merke": "Alpina",
+  "navn": "Skisko Action CO",
+  "pris": 3199,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "url": "https://www.intersport.no/alpina-skisko-action-co-black-unisex-al54401k"
+ },
  "Intersport:atomic-aj5005800-grey---black-242_ino_no": {
   "butikk": "Intersport",
   "forpris": null,
@@ -264,6 +302,44 @@
   "sist_sett": "2026-11-16",
   "type": "staver",
   "url": "https://www.intersport.no/atomic-savor-qrs-black-unisex-aj5005814"
+ },
+ "Intersport:fischer-s18724v-multicolour-242_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    2799
+   ]
+  ],
+  "laveste": 2799,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Rc3 Combi",
+  "pris": 2799,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "url": "https://www.intersport.no/fischer-rc3-combi-multicolour-unisex-s18724v"
+ },
+ "Intersport:fischer-s18824v-multicolour-242_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3000
+   ]
+  ],
+  "laveste": 3000,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Rc1 Combi",
+  "pris": 3000,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "url": "https://www.intersport.no/fischer-rc1-combi-multicolour-unisex-s18824v"
  },
  "Intersport:fischer-z43525-multicolour-242_ino_no": {
   "butikk": "Intersport",
@@ -321,6 +397,25 @@
   "sist_sett": "2026-11-16",
   "type": "staver",
   "url": "https://www.intersport.no/leki-xta-tour-langrennssstaver-blackgrey-unisex-65249131"
+ },
+ "Intersport:madshus-md251343-tbd-_ino_no": {
+  "butikk": "Intersport",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    4800
+   ]
+  ],
+  "laveste": 4800,
+  "laveste_dato": "2026-11-16",
+  "merke": "Madshus",
+  "navn": "Pulse BOA® UNIVERSAL",
+  "pris": 4800,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "url": "https://www.intersport.no/madshus-pulse-boar-universal-tbd-unisex-md251343"
  },
  "Intersport:mckinley-410414-black-white-yellow-900-050-001-181_ino_no": {
   "butikk": "Intersport",
@@ -740,6 +835,101 @@
   "type": "staver",
   "url": "https://www.milslukern.no/swix-29-triac-4-0-aero-carbon-composite-tidligere-lengdestandard-p19343/nc-1350-v105988"
  },
+ "Milslukern:24179": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    4500
+   ]
+  ],
+  "laveste": 4500,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "RC5 Combi",
+  "pris": 4500,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "url": "https://www.milslukern.no/fischer-52-rc5-combi-p24179/multicolour-37-v136115"
+ },
+ "Milslukern:24244": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3499
+   ]
+  ],
+  "laveste": 3499,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "RC3 COMBI",
+  "pris": 3499,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "url": "https://www.milslukern.no/fischer-52-rc3-combi-p24244/multicolour-37-v136512"
+ },
+ "Milslukern:24786": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    2799
+   ]
+  ],
+  "laveste": 2799,
+  "laveste_dato": "2026-11-16",
+  "merke": "Madshus",
+  "navn": "Endurace Universal",
+  "pris": 2799,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "url": "https://www.milslukern.no/madshus-54-endurace-universal-p24786/black-37-v139658"
+ },
+ "Milslukern:26611": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    1999
+   ]
+  ],
+  "laveste": 1999,
+  "laveste_dato": "2026-11-16",
+  "merke": "Leki",
+  "navn": "PRC 850",
+  "pris": 1999,
+  "sist_sett": "2026-11-16",
+  "type": "staver",
+  "url": "https://www.milslukern.no/leki-268-prc-850-p26611/anthracite-135-cm-v123768"
+ },
+ "Milslukern:26761": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3599
+   ]
+  ],
+  "laveste": 3599,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "RC3 Combi",
+  "pris": 3599,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "url": "https://www.milslukern.no/fischer-52-rc3-combi-p26761/multicolour-36-v155787"
+ },
  "Milslukern:26951": {
   "butikk": "Milslukern",
   "forpris": null,
@@ -758,6 +948,44 @@
   "sist_sett": "2026-11-16",
   "type": "staver",
   "url": "https://www.milslukern.no/one-way-504-premio-40-p26951/multicolour-140-v157297"
+ },
+ "Milslukern:27601": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3799
+   ]
+  ],
+  "laveste": 3799,
+  "laveste_dato": "2026-11-16",
+  "merke": "Madshus",
+  "navn": "Race Speed Univeral",
+  "pris": 3799,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "url": "https://www.milslukern.no/madshus-54-race-speed-univeral-p27601/black-37-v160478"
+ },
+ "Milslukern:29183": {
+  "butikk": "Milslukern",
+  "forpris": 7199,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    4319
+   ]
+  ],
+  "laveste": 4319,
+  "laveste_dato": "2026-11-16",
+  "merke": "Salomon",
+  "navn": "S/Race Skiathlon BOA®",
+  "pris": 4319,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "url": "https://www.milslukern.no/salomon-67-s-race-skiathlon-boa-p29183/black-race-blue-38-2-3-v171749"
  },
  "Milslukern:30298": {
   "butikk": "Milslukern",
@@ -797,6 +1025,25 @@
   "type": "staver",
   "url": "https://www.milslukern.no/swix-29-q6-pole-p30501/00100-white-135-v181469"
  },
+ "Milslukern:33143": {
+  "butikk": "Milslukern",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3599
+   ]
+  ],
+  "laveste": 3599,
+  "laveste_dato": "2026-11-16",
+  "merke": "Salomon",
+  "navn": "Pro Combi SC",
+  "pris": 3599,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "url": "https://www.milslukern.no/salomon-67-pro-combi-sc-p33143/no-color-4-5-v198703"
+ },
  "Milslukern:33154": {
   "butikk": "Milslukern",
   "forpris": null,
@@ -815,6 +1062,25 @@
   "sist_sett": "2026-11-16",
   "type": "staver",
   "url": "https://www.milslukern.no/oneway-556-premio-30-mv-racing-p33154/orange-135cm-v198777"
+ },
+ "Sport 1:alpina-al54401k-black-al001_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3199
+   ]
+  ],
+  "laveste": 3199,
+  "laveste_dato": "2026-11-16",
+  "merke": "Alpina",
+  "navn": "Skisko Action CO",
+  "pris": 3199,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "url": "https://www.sport1.no/alpina-skisko-action-co-black-unisex-al54401k"
  },
  "Sport 1:atomic-aj5005800-grey---black-242_sport1_no": {
   "butikk": "Sport 1",
@@ -892,6 +1158,63 @@
   "type": "staver",
   "url": "https://www.sport1.no/atomic-redster-wc-qrs-red-tension-unisex-aj5005904"
  },
+ "Sport 1:fischer-s05525-multicolour-242_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": 12000,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    9599
+   ]
+  ],
+  "laveste": 9599,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Speedmax 9 Skiathlon Boa",
+  "pris": 9599,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "url": "https://www.sport1.no/fischer-speedmax-9-skiathlon-boa-multicolour-unisex-s05525"
+ },
+ "Sport 1:fischer-s18724v-multicolour-242_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    2799
+   ]
+  ],
+  "laveste": 2799,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Rc3 Combi",
+  "pris": 2799,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "url": "https://www.sport1.no/fischer-rc3-combi-multicolour-unisex-s18724v"
+ },
+ "Sport 1:fischer-s18824v-multicolour-242_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    3000
+   ]
+  ],
+  "laveste": 3000,
+  "laveste_dato": "2026-11-16",
+  "merke": "Fischer",
+  "navn": "Rc1 Combi",
+  "pris": 3000,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "url": "https://www.sport1.no/fischer-rc1-combi-multicolour-unisex-s18824v"
+ },
  "Sport 1:fischer-z43525-multicolour-242_sport1_no": {
   "butikk": "Sport 1",
   "forpris": null,
@@ -948,6 +1271,25 @@
   "sist_sett": "2026-11-16",
   "type": "staver",
   "url": "https://www.sport1.no/leki-xta-tour-blackgrey-unisex-65249131"
+ },
+ "Sport 1:madshus-md251343-tbd-_sport1_no": {
+  "butikk": "Sport 1",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    4800
+   ]
+  ],
+  "laveste": 4800,
+  "laveste_dato": "2026-11-16",
+  "merke": "Madshus",
+  "navn": "Pulse BOA® UNIVERSAL",
+  "pris": 4800,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "url": "https://www.sport1.no/madshus-pulse-boar-universal-tbd-unisex-md251343"
  },
  "Sport 1:one-way-oz40024-multicolour-242_sport1_no": {
   "butikk": "Sport 1",
@@ -1348,6 +1690,25 @@
   "type": "staver",
   "url": "https://www.xxl.no/swix-xc-poles-dynamic-d2-langrennsstav/p/1201135_1_Style"
  },
+ "XXL:1232550_1_Style": {
+  "butikk": "XXL",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    2849
+   ]
+  ],
+  "laveste": 2849,
+  "laveste_dato": "2026-11-16",
+  "merke": "Alpina",
+  "navn": "Nordic combi 25/26, langrennsstøvel, kombistøvel",
+  "pris": 2849,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "url": "https://www.xxl.no/alpina-nordic-combi-25-26-langrennsstovel-kombistovel-svart/p/1232550_1_Style"
+ },
  "XXL:1232850_1_Style": {
   "butikk": "XXL",
   "forpris": null,
@@ -1423,6 +1784,25 @@
   "sist_sett": "2026-11-16",
   "type": "staver",
   "url": "https://www.xxl.no/swix-xc-poles-dynamic-d2-25-26-langrennsstav-unisex-bla/p/1243367_1_Style"
+ },
+ "XXL:1243420_1_Style": {
+  "butikk": "XXL",
+  "forpris": null,
+  "forste_sett": "2026-11-16",
+  "historikk": [
+   [
+    "2026-11-16",
+    2479
+   ]
+  ],
+  "laveste": 2479,
+  "laveste_dato": "2026-11-16",
+  "merke": "Rossignol",
+  "navn": "XC Boots X-7 Combi 25/26, kombistøvel, unisex",
+  "pris": 2479,
+  "sist_sett": "2026-11-16",
+  "type": "sko",
+  "url": "https://www.xxl.no/rossignol-xc-boots-x-7-combi-25-26-kombistovel-unisex/p/1243420_1_Style"
  },
  "XXL:1243506_1_Style": {
   "butikk": "XXL",
