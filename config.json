@@ -1,6 +1,5 @@
 {
   "profil": {
-    "skotype": "kombi (klassisk + skøyting)",
     "skostorrelse": ["45"],
     "stavlengder_cm": [157.5, 160]
   },
@@ -17,27 +16,17 @@
   "filter": {
     "sko": {
       "min_pris": 400,
-      "krev": ["combi*", "kombi*", "skiathlon", "universal", "co", "pursuit", "duathlon"],
-      "utelat": [
-        "skate*", "skøyt*", "skoyt*", "skating", "rs", "rs7", "rs8", "rs9", "rs10", "nsk", "fsk", "dp",
-        "bc", "bcx", "xplore", "75mm", "fjellski*", "backcountry", "outback", "outpath", "outrack",
-        "rulleski*", "roller*",
-        "junior", "jr", "j", "barn", "kids", "kid", "dame", "women*", "w", "wmn", "ws", "child", "female",
-        "sns", "pilot",
-        "overtrekk", "overboot", "cover", "gamasje*", "pose", "bag", "lisser", "såle*", "snowstar",
-        "alfa", "crispi", "lundhags", "scarpa", "åsnes"
-      ]
+      "vis_typer": ["klassisk", "kombi", "skøyte"],
+      "typeord": {
+        "kombi": ["combi*", "kombi*", "skiathlon", "universal", "univeral", "co", "pursuit", "duathlon"],
+        "skøyte": ["skate*", "skøyt*", "skoyt*", "skating", "rs", "rs7", "rs8", "rs9", "rs10", "nsk", "fsk", "sk"],
+        "klassisk": ["classic", "klassisk*", "cl", "ncl", "fcl"]
+      },
+      "utelat": ["dp", "bc", "bcx", "xplore", "75mm", "fjellski*", "backcountry", "outback", "outpath", "outrack", "rulleski*", "roller*", "junior", "jr", "j", "barn", "kids", "kid", "dame", "women*", "w", "wmn", "ws", "child", "female", "sns", "pilot", "overtrekk", "overboot", "cover", "gamasje*", "pose", "bag", "lisser", "såle*", "snowstar", "alfa", "crispi", "lundhags", "scarpa", "åsnes"]
     },
     "staver": {
       "min_pris": 250,
-      "utelat": [
-        "strap*", "stropp*", "trinse*", "basket*", "kurv*", "holk*", "håndtak*", "grip", "handle*", "wedge",
-        "pigg*", "spiss*", "tip", "tips", "lim", "kork", "bag", "pose", "trekk", "tube",
-        "junior", "jr", "barn", "kids", "kid", "child", "snowpath",
-        "rulleski*", "roller*",
-        "tele*", "fjell*", "backcountry", "bc", "mountain", "alpin*", "trail", "løpe*", "walking", "pulk*",
-        "åsnes"
-      ]
+      "utelat": ["strap*", "stropp*", "trinse*", "basket*", "kurv*", "holk*", "håndtak*", "grip", "handle*", "wedge", "pigg*", "spiss*", "tip", "tips", "lim", "kork", "bag", "pose", "trekk", "tube", "junior", "jr", "barn", "kids", "kid", "child", "snowpath", "rulleski*", "roller*", "tele*", "fjell*", "backcountry", "bc", "mountain", "alpin*", "trail", "løpe*", "walking", "pulk*", "åsnes"]
     }
   },
   "kilder": [
@@ -54,7 +43,11 @@
     {"butikk": "Intersport", "type": "staver", "parser": "sportholding",
      "url": "https://www.intersport.no/vintersport/langrenn/langrennstaver-og-deler"},
     {"butikk": "Milslukern", "type": "sko", "parser": "milslukern",
+     "url": "https://www.milslukern.no/langrenn/sko/klassisk"},
+    {"butikk": "Milslukern", "type": "sko", "parser": "milslukern",
      "url": "https://www.milslukern.no/langrenn/sko/kombisko"},
+    {"butikk": "Milslukern", "type": "sko", "parser": "milslukern",
+     "url": "https://www.milslukern.no/langrenn/sko/skoyting"},
     {"butikk": "Milslukern", "type": "staver", "parser": "milslukern",
      "url": "https://www.milslukern.no/langrenn/staver"},
     {"butikk": "Fjellsport", "type": "sko", "parser": "fjellsport",

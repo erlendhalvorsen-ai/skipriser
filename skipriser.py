@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Daglig prissjekk av langrennssko (kombi) og langrennsstaver i norske nettbutikker.
+"""Daglig prissjekk av langrennssko (klassisk, kombi, skøyte) og langrennsstaver i norske nettbutikker.
 
 Kjør:  python skipriser.py            (henter priser, oppdaterer data/priser.json,
                                        skriver RAPPORT.md og ev. varsel.md)
@@ -271,16 +271,25 @@ def passer(p, kilde, cfg):
     tekst = " ".join([sti] + [str(p.get(k, "")) for k in ("merke", "navn", "kategori", "kjonn", "bruker")]).lower()
     if har_ord(tekst, regler["utelat"]):
         return False
-    # «krev»: minst ett av ordene må finnes (f.eks. kombi), også i butikkens tagger/bruksområde.
-    bredt = f'{tekst} {p.get("tagger", "")} {p.get("bruk", "")}'.lower()
-    if regler.get("krev") and not har_ord(bredt, regler["krev"]):
-        return False
     if p["pris"] < regler.get("min_pris", 0):
         return False
     if kilde["type"] == "sko":
         if p.get("system") and not har_ord(p["system"].lower(), ["nnn", "prolink", "turnamic"]):
             return False
+        p["undertype"] = skotype(p, tekst, regler["typeord"])
+        if p["undertype"] not in regler["vis_typer"]:
+            return False
     return True
+
+
+def skotype(p, tekst, typeord):
+    """klassisk, skøyte eller kombi – ut fra navn, butikkens tagger og bruksområde."""
+    bredt = f'{tekst} {p.get("tagger", "")} {p.get("bruk", "")}'.lower()
+    skoyte = bool(har_ord(bredt, typeord["skøyte"]))
+    klassisk = bool(har_ord(bredt, typeord["klassisk"]))
+    if har_ord(bredt, typeord["kombi"]) or (skoyte and klassisk):
+        return "kombi"
+    return "skøyte" if skoyte else "klassisk"
 
 
 def matcher_skiene(p, cfg):
@@ -312,12 +321,12 @@ def rad(p, ekstra=""):
     if ekstra:
         merknad.insert(0, ekstra)
     r = rabatt(p)
-    return (f'| {"★" if p.get("match") else ""} | [{navn}]({p["url"]}) | {p["butikk"]} | **{kr(p["pris"])}** | '
+    return (f'| {"★" if p.get("match") else ""} | [{navn}]({p["url"]}) | {p.get("undertype") or "stav"} | {p["butikk"]} | **{kr(p["pris"])}** | '
             f'{kr(p.get("forpris"))} | {f"−{r} %" if r else ""} | {kr(p.get("laveste"))} | {", ".join(merknad)} |')
 
 
-HODE = ("| ★ | Produkt | Butikk | Pris nå | Førpris | Rabatt | Laveste sett | Merknad |\n"
-        "|---|---|---|---|---|---|---|---|")
+HODE = ("| ★ | Produkt | Type | Butikk | Pris nå | Førpris | Rabatt | Laveste sett | Merknad |\n"
+        "|---|---|---|---|---|---|---|---|---|")
 
 
 def tabell(rader):
@@ -368,16 +377,18 @@ def main():
             laveste, laveste_dato = p["pris"], i_dag
         p.update(laveste=laveste, laveste_dato=laveste_dato)
         tilstand[nokkel] = {
-            "butikk": p["butikk"], "type": p["type"], "merke": p["merke"], "navn": p["navn"], "url": p["url"],
+            "butikk": p["butikk"], "type": p["type"], "undertype": p.get("undertype"), "merke": p["merke"], "navn": p["navn"], "url": p["url"],
             "pris": p["pris"], "forpris": p.get("forpris"), "laveste": laveste, "laveste_dato": laveste_dato,
             "forste_sett": forste_sett, "sist_sett": i_dag, "historikk": historikk[-400:],
         }
 
     def sortert(type_, bare_tilbud):
         ps = [p for p in funnet.values() if p["type"] == type_ and (rabatt(p) > 0) == bare_tilbud]
-        return sorted(ps, key=(lambda p: (-rabatt(p), p["pris"])) if bare_tilbud else (lambda p: p["pris"]))
+        # Tilbud: størst rabatt først. Ordinær pris: gruppert på type, billigst først.
+        return sorted(ps, key=(lambda p: (-rabatt(p), p["pris"])) if bare_tilbud
+                      else (lambda p: (p.get("undertype", ""), p["pris"])))
 
-    navn = {"sko": f'Skisko {profil.get("skotype", "klassisk")}, str. {"/".join(profil["skostorrelse"])}',
+    navn = {"sko": f'Skisko, str. {"/".join(profil["skostorrelse"])}',
             "staver": f'Staver, {" / ".join(str(l).replace(".", ",") for l in profil["stavlengder_cm"])} cm'}
     linjer = [f"# Skipriser {i_dag}", "",
               f'{len(funnet)} aktuelle produkter funnet. ★ = passer til skiene ({cfg["matcher_skiene"]["beskrivelse"]}).', ""]
@@ -388,7 +399,7 @@ def main():
                else tabell([rad(p, t) for t, p in sorted(endringer, key=lambda e: -rabatt(e[1]))]), ""]
     for type_ in ("sko", "staver"):
         linjer += [f"## {navn[type_]} – på tilbud nå", "", tabell([rad(p) for p in sortert(type_, True)]), "",
-                   f"## {navn[type_]} – ordinær pris, billigst først", "", tabell([rad(p) for p in sortert(type_, False)]), ""]
+                   f"## {navn[type_]} – ordinær pris", "", tabell([rad(p) for p in sortert(type_, False)]), ""]
     linjer += ["---", "«Førpris» er butikkens egen førpris og er ikke kontrollert. «Laveste sett» er laveste pris "
                "dette skriptet har registrert. Størrelse er sjekket mot butikkens filter der det går an; "
                "lagerstatus må sjekkes i butikken."]
