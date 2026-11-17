@@ -1,18 +1,10 @@
-# Skipriser 2026-11-16
+# Skipriser 2026-11-17
 
-233 aktuelle produkter funnet. ★ = passer til skiene (Atomic Redster C2 Skin, rød/svart: Atomic eller rødt).
+235 aktuelle produkter funnet. ★ = passer til skiene (Atomic Redster C2 Skin, rød/svart: Atomic eller rødt).
 
 ## Endringer siden sist
 
-| ★ | Produkt | Type | Butikk | Pris nå | Førpris | Rabatt | Laveste sett | Merknad |
-|---|---|---|---|---|---|---|---|---|
-|  | [Salomon RC10 Prolink](https://www.milslukern.no/salomon-67-rc10-prolink-p27129/black-process-blue-8-v158492) | klassisk | Milslukern | **989 kr** | 3 299 kr | −70 % | 989 kr | nytt tilbud, sjekk størrelse selv |
-| ★ | [Atomic Pro C1 klassisk sko](https://www.milslukern.no/atomic-437-pro-c1-klassisk-sko-p27564/no-color-42-2-3-v160411) | klassisk | Milslukern | **1 199 kr** | 2 399 kr | −50 % | 1 199 kr | nytt tilbud, sjekk størrelse selv |
-|  | [Salomon Rs10 Ebony / White / Process Blue-X](https://www.fjellsport.no/merker/salomon/salomon-rs10-ebony-white-process-blue-x-FS556418) | skøyte | Fjellsport | **2 699 kr** | 4 700 kr | −43 % | 2 699 kr | nytt tilbud, sjekk størrelse selv |
-|  | [Salomon S/Race Skiathlon BOA®](https://www.milslukern.no/salomon-67-s-race-skiathlon-boa-p29183/black-race-blue-38-2-3-v171749) | kombi | Milslukern | **4 319 kr** | 7 199 kr | −40 % | 4 319 kr | nytt tilbud, sjekk størrelse selv |
-|  | [Salomon S/Race Skate BOA](https://www.milslukern.no/salomon-67-s-race-skate-boa-p27343/black-race-blue-40-v159242) | skøyte | Milslukern | **4 319 kr** | 7 199 kr | −40 % | 4 319 kr | nytt tilbud, sjekk størrelse selv |
-|  | [Fischer Speedmax 7 Classic](https://www.milslukern.no/fischer-52-speedmax-7-classic-p29798/multicolour-46-v177008) | klassisk | Milslukern | **3 199 kr** | 4 999 kr | −36 % | 3 199 kr | nytt tilbud, sjekk størrelse selv, Gul/Svart |
-|  | [Alpina Skisko Action Cl Black](https://www.fjellsport.no/merker/alpina/alpina-skisko-action-cl-black-FS571397) | klassisk | Fjellsport | **2 199 kr** | 2 999 kr | −27 % | 2 199 kr | nytt tilbud, sjekk størrelse selv |
+_Ingen._
 
 ## Skisko, str. 45 – på tilbud nå
 
@@ -32,9 +24,9 @@
 |  | [Rossignol X-Ium Wcs Classic](https://www.intersport.no/rossignol-x-ium-wcs-classic-unisex-rin0070) | klassisk | Intersport | **3 999 kr** | 5 000 kr | −20 % | 3 999 kr | medlemspris |
 |  | [Rossignol X-Ium Wcs Classic](https://www.sport1.no/rossignol-x-ium-wcs-classic-unisex-rin0070) | klassisk | Sport 1 | **4 000 kr** | 5 000 kr | −20 % | 4 000 kr | medlemspris |
 |  | [Fischer Speedmax 7 Classic Boa](https://www.sport1.no/fischer-speedmax-7-classic-boa-multicolour-unisex-s10526) | klassisk | Sport 1 | **4 639 kr** | 5 800 kr | −20 % | 4 639 kr | medlemspris |
-|  | [Fischer Carbon Skate](https://www.sport1.no/fischer-carbon-skate-multicolour-unisex-s15024) | skøyte | Sport 1 | **5 199 kr** | 6 500 kr | −20 % | 5 199 kr | medlemspris |
 |  | [Rossignol X-Ium Wcs Skate](https://www.intersport.no/rossignol-x-ium-wcs-skate-unisex-rin0060) | skøyte | Intersport | **5 199 kr** | 6 500 kr | −20 % | 5 199 kr | medlemspris |
 |  | [Rossignol X-Ium Wcs Skate](https://www.sport1.no/rossignol-x-ium-wcs-skate-unisex-rin0060) | skøyte | Sport 1 | **5 200 kr** | 6 500 kr | −20 % | 5 200 kr | medlemspris |
+|  | [Fischer Carbon Skate](https://www.sport1.no/fischer-carbon-skate-multicolour-unisex-s15024) | skøyte | Sport 1 | **5 200 kr** | 6 500 kr | −20 % | 5 199 kr | medlemspris |
 |  | [Fischer Speedmax 6 Skate Boa](https://www.sport1.no/fischer-speedmax-6-skate-boa-multicolour-unisex-s15026) | skøyte | Sport 1 | **5 439 kr** | 6 800 kr | −20 % | 5 439 kr | medlemspris |
 |  | [Madshus Redline Boa® Classic](https://www.sport1.no/madshus-redline-boar-classic-redblack-unisex-md251552) | klassisk | Sport 1 | **6 000 kr** | 7 500 kr | −20 % | 6 000 kr | medlemspris |
 |  | [Fischer Speedmax 7 Skate](https://www.sport1.no/fischer-speedmax-7-skate-multicolour-unisex-s10025) | skøyte | Sport 1 | **6 239 kr** | 7 800 kr | −20 % | 6 239 kr | medlemspris |
@@ -240,6 +232,7 @@
 | ★ | [Swix Q5 Pole](https://www.intersport.no/swix-q5-pole-red-unisex-xcq50-00) | stav | Intersport | **1 400 kr** |  |  | 1 400 kr |  |
 | ★ | [Swix Q5 Pole Red](https://www.fjellsport.no/merker/swix/swix-q5-pole-red-FS640382) | stav | Fjellsport | **1 400 kr** |  |  | 1 400 kr | sjekk størrelse selv |
 |  | [Swix Q4 Pole](https://www.intersport.no/swix-q4-pole-black-unisex-xcq40-01) | stav | Intersport | **1 499 kr** |  |  | 1 499 kr |  |
+|  | [Fischer Speedpro](https://www.sport1.no/fischer-speedpro-multicolour-unisex-z42126) | stav | Sport 1 | **1 500 kr** |  |  | 1 500 kr |  |
 |  | [One Way Storm Xc Mag](https://www.sport1.no/one-way-storm-xc-mag-multicolour-unisex-oz48325) | stav | Sport 1 | **1 600 kr** |  |  | 1 600 kr |  |
 |  | [One Way Storm Xc Mag](https://www.intersport.no/one-way-storm-xc-mag-multicolour-unisex-oz48325) | stav | Intersport | **1 600 kr** |  |  | 1 600 kr |  |
 |  | [One Way Storm Pro](https://www.sport1.no/one-way-storm-pro-multicolour-unisex-oz48521) | stav | Sport 1 | **1 800 kr** |  |  | 1 800 kr |  |
@@ -257,6 +250,7 @@
 |  | [Swix Q2 Pole](https://www.milslukern.no/swix-29-q2-pole-p30298/white-135-v180312) | stav | Milslukern | **2 799 kr** |  |  | 2 799 kr | sjekk størrelse selv, Hvit |
 |  | [Swix Quantum 1](https://www.milslukern.no/swix-29-quantum-1-p18930/nc-1375-v102919) | stav | Milslukern | **2 799 kr** |  |  | 2 799 kr | sjekk størrelse selv |
 |  | [Swix Q2 Pole](https://www.sport1.no/swix-q2-pole-white-unisex-xcq20-00) | stav | Sport 1 | **2 800 kr** |  |  | 2 800 kr |  |
+| ★ | [Atomic Redster Ultra Qrs](https://www.intersport.no/atomic-redster-ultra-qrs-red-tension-unisex-aj5005906) | stav | Intersport | **2 800 kr** |  |  | 2 800 kr |  |
 |  | [Swix Q1 Pole](https://www.sport1.no/swix-q1-pole-white-unisex-xcq10-00) | stav | Sport 1 | **3 300 kr** |  |  | 3 300 kr |  |
 |  | [One Way Storm 1](https://www.sport1.no/one-way-storm-1-multicolour-unisex-oz41024) | stav | Sport 1 | **3 300 kr** |  |  | 3 300 kr |  |
 | ★ | [Atomic Redster Wc Qrs](https://www.sport1.no/atomic-redster-wc-qrs-red-tension-unisex-aj5005904) | stav | Sport 1 | **3 500 kr** |  |  | 3 500 kr |  |
