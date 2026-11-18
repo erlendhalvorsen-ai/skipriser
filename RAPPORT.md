@@ -1,10 +1,30 @@
-# Skipriser 2026-11-17
+# Skipriser 2026-11-18
 
-235 aktuelle produkter funnet. ★ = passer til skiene (Atomic Redster C2 Skin, rød/svart: Atomic eller rødt).
+234 aktuelle produkter funnet. ★ = passer til skiene (Atomic Redster C2 Skin, rød/svart: Atomic eller rødt).
 
 ## Endringer siden sist
 
-_Ingen._
+| ★ | Produkt | Type | Butikk | Pris nå | Førpris | Rabatt | Laveste sett | Merknad |
+|---|---|---|---|---|---|---|---|---|
+|  | [Fischer Speedmax 6 Classic Boa](https://www.sport1.no/fischer-speedmax-6-classic-boa-multicolour-unisex-s12526) | klassisk | Sport 1 | **3 600 kr** | 4 800 kr | −25 % | 3 600 kr | ned fra 3 839 kr |
+|  | [Fischer Speedmax 7 Classic](https://www.sport1.no/fischer-speedmax-7-classic-multicolour-unisex-s10525) | klassisk | Sport 1 | **3 750 kr** | 5 000 kr | −25 % | 3 750 kr | ned fra 3 999 kr |
+|  | [Fischer Speedmax 9 Skiathlon Boa](https://www.sport1.no/fischer-speedmax-9-skiathlon-boa-multicolour-unisex-s05525) | kombi | Sport 1 | **9 000 kr** | 12 000 kr | −25 % | 9 000 kr | ned fra 9 599 kr |
+|  | [Fischer Carbon Skate](https://www.sport1.no/fischer-carbon-skate-multicolour-unisex-s15024) | skøyte | Sport 1 | **4 875 kr** | 6 500 kr | −25 % | 4 875 kr | ned fra 5 200 kr |
+|  | [Fischer Speedmax 7 Classic Boa](https://www.sport1.no/fischer-speedmax-7-classic-boa-multicolour-unisex-s10526) | klassisk | Sport 1 | **4 350 kr** | 5 800 kr | −25 % | 4 350 kr | ned fra 4 639 kr |
+|  | [Fischer Speedmax 9 Skate Rl Boa](https://www.sport1.no/fischer-speedmax-9-skate-rl-boa-multicolour-unisex-s04325) | skøyte | Sport 1 | **8 625 kr** | 11 500 kr | −25 % | 8 625 kr | ned fra 9 199 kr |
+|  | [Fischer Speedmax 6 Skate Boa](https://www.sport1.no/fischer-speedmax-6-skate-boa-multicolour-unisex-s15026) | skøyte | Sport 1 | **5 100 kr** | 6 800 kr | −25 % | 5 100 kr | ned fra 5 439 kr |
+|  | [Rossignol X-Ium Wcs Classic](https://www.sport1.no/rossignol-x-ium-wcs-classic-unisex-rin0070) | klassisk | Sport 1 | **3 750 kr** | 5 000 kr | −25 % | 3 750 kr | ned fra 4 000 kr |
+|  | [Fischer Speedmax 7 Skate Boa](https://www.sport1.no/fischer-speedmax-7-skate-boa-multicolour-unisex-s10026) | skøyte | Sport 1 | **6 375 kr** | 8 500 kr | −25 % | 6 375 kr | ned fra 6 799 kr |
+|  | [Rossignol X-Ium Wcs Skate](https://www.sport1.no/rossignol-x-ium-wcs-skate-unisex-rin0060) | skøyte | Sport 1 | **4 875 kr** | 6 500 kr | −25 % | 4 875 kr | ned fra 5 200 kr |
+|  | [Fischer Speedmax 7 Skate](https://www.sport1.no/fischer-speedmax-7-skate-multicolour-unisex-s10025) | skøyte | Sport 1 | **5 850 kr** | 7 800 kr | −25 % | 5 850 kr | ned fra 6 239 kr |
+|  | [Fischer Speedmax 9 Classic Rl Boa](https://www.sport1.no/fischer-speedmax-9-classic-rl-boa-multicolour-unisex-s06325) | klassisk | Sport 1 | **6 750 kr** | 9 000 kr | −25 % | 6 750 kr | ned fra 7 199 kr |
+|  | [Madshus Redline Boa® Classic](https://www.sport1.no/madshus-redline-boar-classic-redblack-unisex-md251552) | klassisk | Sport 1 | **5 625 kr** | 7 500 kr | −25 % | 5 625 kr | ned fra 6 000 kr |
+|  | [Madshus Redline Boa® Skate](https://www.sport1.no/madshus-redline-boar-skate-redblack-unisex-md251553) | skøyte | Sport 1 | **7 725 kr** | 10 300 kr | −25 % | 7 725 kr | ned fra 8 240 kr |
+|  | [Rossignol X-Ium Wcs Classic](https://www.intersport.no/rossignol-x-ium-wcs-classic-unisex-rin0070) | klassisk | Intersport | **3 750 kr** | 5 000 kr | −25 % | 3 750 kr | ned fra 3 999 kr, medlemspris |
+|  | [Rossignol X-Ium Wcs Skate](https://www.intersport.no/rossignol-x-ium-wcs-skate-unisex-rin0060) | skøyte | Intersport | **4 875 kr** | 6 500 kr | −25 % | 4 875 kr | ned fra 5 199 kr, medlemspris |
+|  | [Swix Q1 Pole](https://www.intersport.no/swix-q1-pole-white-unisex-xcq10-00) | stav | Intersport | **2 475 kr** | 3 300 kr | −25 % | 2 475 kr | ned fra 2 640 kr, medlemspris |
+| ★ | [Swix Triac 5.0 Pole](https://www.intersport.no/swix-triac-50-pole-red-unisex-xct50-00) | stav | Intersport | **3 675 kr** | 4 900 kr | −25 % | 3 675 kr | ned fra 3 920 kr, medlemspris |
+|  | [Swix Q2 Pole](https://www.intersport.no/swix-q2-pole-white-unisex-xcq20-00) | stav | Intersport | **2 100 kr** | 2 800 kr | −25 % | 2 100 kr | ned fra 2 240 kr, medlemspris |
 
 ## Skisko, str. 45 – på tilbud nå
 
@@ -18,23 +38,22 @@ _Ingen._
 |  | [Salomon S/Race Skate BOA](https://www.milslukern.no/salomon-67-s-race-skate-boa-p27343/black-race-blue-40-v159242) | skøyte | Milslukern | **4 319 kr** | 7 199 kr | −40 % | 4 319 kr | sjekk størrelse selv |
 |  | [Fischer Speedmax 7 Classic](https://www.milslukern.no/fischer-52-speedmax-7-classic-p29798/multicolour-46-v177008) | klassisk | Milslukern | **3 199 kr** | 4 999 kr | −36 % | 3 199 kr | sjekk størrelse selv, Gul/Svart |
 |  | [Alpina Skisko Action Cl Black](https://www.fjellsport.no/merker/alpina/alpina-skisko-action-cl-black-FS571397) | klassisk | Fjellsport | **2 199 kr** | 2 999 kr | −27 % | 2 199 kr | sjekk størrelse selv |
-|  | [Rossignol XC Boots X-8 Skate 24/25, skøytestøvel](https://www.xxl.no/rossignol-xc-boots-x-8-skate-24-25-skoytestovel-flerfarget/p/1221203_1_Style) | skøyte | XXL | **1 599 kr** | 1 999 kr | −20 % | 1 599 kr | Flerfarget |
-|  | [Fischer Speedmax 6 Classic Boa](https://www.sport1.no/fischer-speedmax-6-classic-boa-multicolour-unisex-s12526) | klassisk | Sport 1 | **3 839 kr** | 4 800 kr | −20 % | 3 839 kr | medlemspris |
-|  | [Fischer Speedmax 7 Classic](https://www.sport1.no/fischer-speedmax-7-classic-multicolour-unisex-s10525) | klassisk | Sport 1 | **3 999 kr** | 5 000 kr | −20 % | 3 999 kr | medlemspris |
-|  | [Rossignol X-Ium Wcs Classic](https://www.intersport.no/rossignol-x-ium-wcs-classic-unisex-rin0070) | klassisk | Intersport | **3 999 kr** | 5 000 kr | −20 % | 3 999 kr | medlemspris |
-|  | [Rossignol X-Ium Wcs Classic](https://www.sport1.no/rossignol-x-ium-wcs-classic-unisex-rin0070) | klassisk | Sport 1 | **4 000 kr** | 5 000 kr | −20 % | 4 000 kr | medlemspris |
-|  | [Fischer Speedmax 7 Classic Boa](https://www.sport1.no/fischer-speedmax-7-classic-boa-multicolour-unisex-s10526) | klassisk | Sport 1 | **4 639 kr** | 5 800 kr | −20 % | 4 639 kr | medlemspris |
-|  | [Rossignol X-Ium Wcs Skate](https://www.intersport.no/rossignol-x-ium-wcs-skate-unisex-rin0060) | skøyte | Intersport | **5 199 kr** | 6 500 kr | −20 % | 5 199 kr | medlemspris |
-|  | [Rossignol X-Ium Wcs Skate](https://www.sport1.no/rossignol-x-ium-wcs-skate-unisex-rin0060) | skøyte | Sport 1 | **5 200 kr** | 6 500 kr | −20 % | 5 200 kr | medlemspris |
-|  | [Fischer Carbon Skate](https://www.sport1.no/fischer-carbon-skate-multicolour-unisex-s15024) | skøyte | Sport 1 | **5 200 kr** | 6 500 kr | −20 % | 5 199 kr | medlemspris |
-|  | [Fischer Speedmax 6 Skate Boa](https://www.sport1.no/fischer-speedmax-6-skate-boa-multicolour-unisex-s15026) | skøyte | Sport 1 | **5 439 kr** | 6 800 kr | −20 % | 5 439 kr | medlemspris |
-|  | [Madshus Redline Boa® Classic](https://www.sport1.no/madshus-redline-boar-classic-redblack-unisex-md251552) | klassisk | Sport 1 | **6 000 kr** | 7 500 kr | −20 % | 6 000 kr | medlemspris |
-|  | [Fischer Speedmax 7 Skate](https://www.sport1.no/fischer-speedmax-7-skate-multicolour-unisex-s10025) | skøyte | Sport 1 | **6 239 kr** | 7 800 kr | −20 % | 6 239 kr | medlemspris |
-|  | [Fischer Speedmax 7 Skate Boa](https://www.sport1.no/fischer-speedmax-7-skate-boa-multicolour-unisex-s10026) | skøyte | Sport 1 | **6 799 kr** | 8 500 kr | −20 % | 6 799 kr | medlemspris |
-|  | [Fischer Speedmax 9 Classic Rl Boa](https://www.sport1.no/fischer-speedmax-9-classic-rl-boa-multicolour-unisex-s06325) | klassisk | Sport 1 | **7 199 kr** | 9 000 kr | −20 % | 7 199 kr | medlemspris |
-|  | [Madshus Redline Boa® Skate](https://www.sport1.no/madshus-redline-boar-skate-redblack-unisex-md251553) | skøyte | Sport 1 | **8 240 kr** | 10 300 kr | −20 % | 8 240 kr | medlemspris |
-|  | [Fischer Speedmax 9 Skate Rl Boa](https://www.sport1.no/fischer-speedmax-9-skate-rl-boa-multicolour-unisex-s04325) | skøyte | Sport 1 | **9 199 kr** | 11 500 kr | −20 % | 9 199 kr | medlemspris |
-|  | [Fischer Speedmax 9 Skiathlon Boa](https://www.sport1.no/fischer-speedmax-9-skiathlon-boa-multicolour-unisex-s05525) | kombi | Sport 1 | **9 599 kr** | 12 000 kr | −20 % | 9 599 kr | medlemspris |
+|  | [Fischer Speedmax 6 Classic Boa](https://www.sport1.no/fischer-speedmax-6-classic-boa-multicolour-unisex-s12526) | klassisk | Sport 1 | **3 600 kr** | 4 800 kr | −25 % | 3 600 kr |  |
+|  | [Fischer Speedmax 7 Classic](https://www.sport1.no/fischer-speedmax-7-classic-multicolour-unisex-s10525) | klassisk | Sport 1 | **3 750 kr** | 5 000 kr | −25 % | 3 750 kr |  |
+|  | [Rossignol X-Ium Wcs Classic](https://www.sport1.no/rossignol-x-ium-wcs-classic-unisex-rin0070) | klassisk | Sport 1 | **3 750 kr** | 5 000 kr | −25 % | 3 750 kr |  |
+|  | [Rossignol X-Ium Wcs Classic](https://www.intersport.no/rossignol-x-ium-wcs-classic-unisex-rin0070) | klassisk | Intersport | **3 750 kr** | 5 000 kr | −25 % | 3 750 kr | medlemspris |
+|  | [Fischer Speedmax 7 Classic Boa](https://www.sport1.no/fischer-speedmax-7-classic-boa-multicolour-unisex-s10526) | klassisk | Sport 1 | **4 350 kr** | 5 800 kr | −25 % | 4 350 kr |  |
+|  | [Fischer Carbon Skate](https://www.sport1.no/fischer-carbon-skate-multicolour-unisex-s15024) | skøyte | Sport 1 | **4 875 kr** | 6 500 kr | −25 % | 4 875 kr |  |
+|  | [Rossignol X-Ium Wcs Skate](https://www.sport1.no/rossignol-x-ium-wcs-skate-unisex-rin0060) | skøyte | Sport 1 | **4 875 kr** | 6 500 kr | −25 % | 4 875 kr |  |
+|  | [Rossignol X-Ium Wcs Skate](https://www.intersport.no/rossignol-x-ium-wcs-skate-unisex-rin0060) | skøyte | Intersport | **4 875 kr** | 6 500 kr | −25 % | 4 875 kr | medlemspris |
+|  | [Fischer Speedmax 6 Skate Boa](https://www.sport1.no/fischer-speedmax-6-skate-boa-multicolour-unisex-s15026) | skøyte | Sport 1 | **5 100 kr** | 6 800 kr | −25 % | 5 100 kr |  |
+|  | [Madshus Redline Boa® Classic](https://www.sport1.no/madshus-redline-boar-classic-redblack-unisex-md251552) | klassisk | Sport 1 | **5 625 kr** | 7 500 kr | −25 % | 5 625 kr |  |
+|  | [Fischer Speedmax 7 Skate](https://www.sport1.no/fischer-speedmax-7-skate-multicolour-unisex-s10025) | skøyte | Sport 1 | **5 850 kr** | 7 800 kr | −25 % | 5 850 kr |  |
+|  | [Fischer Speedmax 7 Skate Boa](https://www.sport1.no/fischer-speedmax-7-skate-boa-multicolour-unisex-s10026) | skøyte | Sport 1 | **6 375 kr** | 8 500 kr | −25 % | 6 375 kr |  |
+|  | [Fischer Speedmax 9 Classic Rl Boa](https://www.sport1.no/fischer-speedmax-9-classic-rl-boa-multicolour-unisex-s06325) | klassisk | Sport 1 | **6 750 kr** | 9 000 kr | −25 % | 6 750 kr |  |
+|  | [Madshus Redline Boa® Skate](https://www.sport1.no/madshus-redline-boar-skate-redblack-unisex-md251553) | skøyte | Sport 1 | **7 725 kr** | 10 300 kr | −25 % | 7 725 kr |  |
+|  | [Fischer Speedmax 9 Skate Rl Boa](https://www.sport1.no/fischer-speedmax-9-skate-rl-boa-multicolour-unisex-s04325) | skøyte | Sport 1 | **8 625 kr** | 11 500 kr | −25 % | 8 625 kr |  |
+|  | [Fischer Speedmax 9 Skiathlon Boa](https://www.sport1.no/fischer-speedmax-9-skiathlon-boa-multicolour-unisex-s05525) | kombi | Sport 1 | **9 000 kr** | 12 000 kr | −25 % | 9 000 kr |  |
 
 ## Skisko, str. 45 – ordinær pris
 
@@ -185,9 +204,9 @@ _Ingen._
 |  | [Swix I2 Touring Pole White](https://www.fjellsport.no/merker/swix/swix-i2-touring-pole-white-FS640372) | stav | Fjellsport | **379 kr** | 550 kr | −31 % | 379 kr | sjekk størrelse selv |
 |  | [Swix Q4 Pole Black](https://www.fjellsport.no/merker/swix/swix-q4-pole-black-FS640381) | stav | Fjellsport | **1 189 kr** | 1 700 kr | −30 % | 1 189 kr | sjekk størrelse selv |
 | ★ | [Leki Hrc Marathon Tr Bright Red-violet-neonyellow](https://www.fjellsport.no/merker/leki/leki-hrc-marathon-tr-bright-red-violet-neonyellow-FS748525) | stav | Fjellsport | **2 219 kr** | 2 999 kr | −26 % | 2 219 kr | sjekk størrelse selv |
-|  | [Swix Q2 Pole](https://www.intersport.no/swix-q2-pole-white-unisex-xcq20-00) | stav | Intersport | **2 240 kr** | 2 800 kr | −20 % | 2 240 kr | medlemspris |
-|  | [Swix Q1 Pole](https://www.intersport.no/swix-q1-pole-white-unisex-xcq10-00) | stav | Intersport | **2 640 kr** | 3 300 kr | −20 % | 2 640 kr | medlemspris |
-| ★ | [Swix Triac 5.0 Pole](https://www.intersport.no/swix-triac-50-pole-red-unisex-xct50-00) | stav | Intersport | **3 920 kr** | 4 900 kr | −20 % | 3 920 kr | medlemspris |
+|  | [Swix Q2 Pole](https://www.intersport.no/swix-q2-pole-white-unisex-xcq20-00) | stav | Intersport | **2 100 kr** | 2 800 kr | −25 % | 2 100 kr | medlemspris |
+|  | [Swix Q1 Pole](https://www.intersport.no/swix-q1-pole-white-unisex-xcq10-00) | stav | Intersport | **2 475 kr** | 3 300 kr | −25 % | 2 475 kr | medlemspris |
+| ★ | [Swix Triac 5.0 Pole](https://www.intersport.no/swix-triac-50-pole-red-unisex-xct50-00) | stav | Intersport | **3 675 kr** | 4 900 kr | −25 % | 3 675 kr | medlemspris |
 
 ## Staver, 157,5 / 160 cm – ordinær pris
 
