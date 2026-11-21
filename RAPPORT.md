@@ -1,13 +1,17 @@
-# Skipriser 2026-11-20
+# Skipriser 2026-11-21
 
-235 aktuelle produkter funnet. ★ = passer til skiene (Atomic Redster C2 Skin, rød/svart: Atomic eller rødt).
+234 aktuelle produkter funnet. ★ = passer til skiene (Atomic Redster C2 Skin, rød/svart: Atomic eller rødt).
 
 ## Endringer siden sist
 
 | ★ | Produkt | Type | Butikk | Pris nå | Førpris | Rabatt | Laveste sett | Merknad |
 |---|---|---|---|---|---|---|---|---|
-|  | [Madshus XC Boots Race Pro Classic, langrennsstøvel](https://www.xxl.no/madshus-xc-boots-race-pro-classic-langrennsstovel-svart/p/1286391_1_Style) | klassisk | XXL | **1 999 kr** | 4 000 kr | −50 % | 1 999 kr | ned fra 4 000 kr, Svart |
-|  | [Leki XC Poles XTA 5,5 Shark 25/26, langrennsstav, unisex](https://www.xxl.no/leki-xc-poles-xta-5-5-shark-25-26-langrennsstav-unisex-svart/p/1243506_1_Style) | stav | XXL | **769 kr** | 879 kr | −13 % | 769 kr | ned fra 879 kr, Svart |
+|  | [Leki PRC 750 Neonpink-Neonyellow](https://www.fjellsport.no/merker/leki/prc-750-128251-FS413915) | stav | Fjellsport | **1 329 kr** | 1 899 kr | −30 % | 1 329 kr | ned fra 1 899 kr, sjekk størrelse selv |
+|  | [Fischer Rc5 Classic](https://www.sport1.no/fischer-rc5-classic-multicolour-unisex-s17023) | klassisk | Sport 1 | **2 699 kr** |  |  | 2 699 kr | ned fra 3 400 kr |
+|  | [Salomon Rs8 Prolink](https://www.sport1.no/salomon-rs8-prolink-dark-navyblackprocess-blue-herre-l47029800) | skøyte | Sport 1 | **3 299 kr** |  |  | 3 299 kr | ned fra 4 200 kr |
+|  | [Fischer Xc Touring](https://www.sport1.no/fischer-xc-touring-multicolour-unisex-s21622) | klassisk | Sport 1 | **1 299 kr** |  |  | 1 299 kr | ned fra 1 900 kr |
+|  | [Madshus Pulse BOA® SKATE](https://www.sport1.no/madshus-pulse-boar-skate-tbd-unisex-md251342) | skøyte | Sport 1 | **3 899 kr** |  |  | 3 899 kr | ned fra 4 800 kr |
+|  | [Madshus Pulse BOA® UNIVERSAL](https://www.sport1.no/madshus-pulse-boar-universal-tbd-unisex-md251343) | kombi | Sport 1 | **3 899 kr** |  |  | 3 899 kr | ned fra 4 800 kr |
 
 ## Skisko, str. 45 – på tilbud nå
 
@@ -20,7 +24,7 @@
 |  | [Salomon S/Race Skiathlon BOA®](https://www.milslukern.no/salomon-67-s-race-skiathlon-boa-p29183/black-race-blue-38-2-3-v171749) | kombi | Milslukern | **4 319 kr** | 7 199 kr | −40 % | 4 319 kr | sjekk størrelse selv |
 |  | [Salomon S/Race Skiathlon BOA®](https://www.milslukern.no/salomon-67-s-race-skiathlon-boa-p29183/black-race-blue-38-2-3-v171749) | kombi | Milslukern | **4 319 kr** | 7 199 kr | −40 % | 4 319 kr | sjekk størrelse selv |
 |  | [Salomon S/Race Skate BOA](https://www.milslukern.no/salomon-67-s-race-skate-boa-p27343/black-race-blue-40-v159242) | skøyte | Milslukern | **4 319 kr** | 7 199 kr | −40 % | 4 319 kr | sjekk størrelse selv |
-|  | [Fischer Speedmax 7 Classic](https://www.milslukern.no/fischer-52-speedmax-7-classic-p29798/multicolour-46-v177008) | klassisk | Milslukern | **3 199 kr** | 4 999 kr | −36 % | 3 199 kr | sjekk størrelse selv, Gul/Svart |
+|  | [Fischer Speedmax 7 Classic](https://www.milslukern.no/fischer-52-speedmax-7-classic-p29798/multicolour-48-v177010) | klassisk | Milslukern | **3 199 kr** | 4 999 kr | −36 % | 3 199 kr | sjekk størrelse selv, Gul/Svart |
 |  | [Rossignol XC Boots X-8 Classic, klassisk langrennsstøvel](https://www.xxl.no/rossignol-xc-boots-x-8-classic-klassisk-langrennsstovel-flerfarget/p/1221201_1_Style) | klassisk | XXL | **1 249 kr** | 1 749 kr | −29 % | 1 249 kr | Flerfarget |
 |  | [Alpina Skisko Action Cl Black](https://www.fjellsport.no/merker/alpina/alpina-skisko-action-cl-black-FS571397) | klassisk | Fjellsport | **2 199 kr** | 2 999 kr | −27 % | 2 199 kr | sjekk størrelse selv |
 |  | [Rossignol X-Ium Wcs Classic](https://www.intersport.no/rossignol-x-ium-wcs-classic-unisex-rin0070) | klassisk | Intersport | **3 750 kr** | 5 000 kr | −25 % | 3 750 kr | medlemspris |
@@ -32,6 +36,7 @@
 | ★ | Produkt | Type | Butikk | Pris nå | Førpris | Rabatt | Laveste sett | Merknad |
 |---|---|---|---|---|---|---|---|---|
 |  | [Fischer Xc Touring](https://www.sport1.no/fischer-xc-touring-multicolour-unisex-s21625) | klassisk | Sport 1 | **1 299 kr** |  |  | 1 299 kr |  |
+|  | [Fischer Xc Touring](https://www.sport1.no/fischer-xc-touring-multicolour-unisex-s21622) | klassisk | Sport 1 | **1 299 kr** |  |  | 1 299 kr |  |
 |  | [Alpina T 10](https://www.intersport.no/alpina-t-10-blackred-unisex-al54341k) | klassisk | Intersport | **1 299 kr** |  |  | 1 299 kr |  |
 |  | [Alpina T 10 Tur skisko klassisk](https://www.intersport.no/alpina-t-10-tur-skisko-klassisk-sortrod-unisex-al5357) | klassisk | Intersport | **1 299 kr** |  |  | 1 299 kr |  |
 |  | [Alpina XC Boots T 5 Plus 25/26, langrennsko, unisex](https://www.xxl.no/alpina-xc-boots-t-5-plus-25-26-langrennsko-unisex-svart/p/1243863_1_Style) | klassisk | XXL | **1 399 kr** |  |  | 1 399 kr | Svart |
@@ -47,7 +52,6 @@
 |  | [Salomon Escape Rc Prolink](https://www.sport1.no/salomon-escape-rc-prolink-black-unisex-l47030700) | klassisk | Sport 1 | **1 800 kr** |  |  | 1 800 kr |  |
 |  | [Fischer Xc Touring](https://www.intersport.no/fischer-xc-touring-multicolour-unisex-s21625) | klassisk | Intersport | **1 800 kr** |  |  | 1 800 kr |  |
 |  | [Salomon Escape RC Prolink langrennssko](https://www.intersport.no/salomon-escape-rc-prolink-langrennssko-black-unisex-l47030700) | klassisk | Intersport | **1 800 kr** |  |  | 1 800 kr |  |
-|  | [Fischer Xc Touring](https://www.sport1.no/fischer-xc-touring-multicolour-unisex-s21622) | klassisk | Sport 1 | **1 900 kr** |  |  | 1 900 kr |  |
 |  | [Alpina Skisko T 10 Tur](https://www.sport1.no/alpina-skisko-t-10-tur-sortrod-unisex-al5357) | klassisk | Sport 1 | **1 999 kr** |  |  | 1 999 kr |  |
 |  | [Alpina T 10](https://www.sport1.no/alpina-t-10-blackred-unisex-al54341k) | klassisk | Sport 1 | **1 999 kr** |  |  | 1 999 kr |  |
 |  | [Rossignol XC Boots X-7 Classic 25/26, langrennsko, unisex](https://www.xxl.no/rossignol-xc-boots-x-7-classic-25-26-langrennsko-unisex/p/1243419_1_Style) | klassisk | XXL | **2 049 kr** |  |  | 2 049 kr |  |
@@ -62,6 +66,7 @@
 |  | [Fischer Xc Cruiser](https://www.intersport.no/fischer-xc-cruiser-multicolour-unisex-s45225) | klassisk | Intersport | **2 500 kr** |  |  | 2 500 kr |  |
 |  | [Fischer Xc Control](https://www.intersport.no/fischer-xc-control-multicolour-unisex-s20524) | klassisk | Intersport | **2 500 kr** |  |  | 2 500 kr |  |
 |  | [Salomon Men's RC8 Prolink Black/Process Blue](https://www.fjellsport.no/merker/salomon/salomon-rc8-prolink-black-process-blue-223049) | klassisk | Fjellsport | **2 600 kr** |  |  | 2 600 kr | sjekk størrelse selv |
+|  | [Fischer Rc5 Classic](https://www.sport1.no/fischer-rc5-classic-multicolour-unisex-s17023) | klassisk | Sport 1 | **2 699 kr** |  |  | 2 699 kr |  |
 |  | [Fischer Rc3 Classic](https://www.sport1.no/fischer-rc3-classic-multicolour-unisex-s17224v) | klassisk | Sport 1 | **2 700 kr** |  |  | 2 700 kr |  |
 |  | [Fischer Rc3 Classic](https://www.intersport.no/fischer-rc3-classic-multicolour-unisex-s17224v) | klassisk | Intersport | **2 700 kr** |  |  | 2 700 kr |  |
 |  | [Rossignol XC Boots X-9 Classic 25/26, langrennsko, unisex](https://www.xxl.no/rossignol-xc-boots-x-9-classic-25-26-langrennsko-unisex/p/1243417_1_Style) | klassisk | XXL | **2 899 kr** |  |  | 2 899 kr |  |
@@ -74,7 +79,6 @@
 |  | [Salomon R Prolink Ebony / Silver C](https://www.fjellsport.no/merker/salomon/salomon-r-prolink-ebony-silver-c-FS556420) | klassisk | Fjellsport | **3 200 kr** |  |  | 3 200 kr | sjekk størrelse selv |
 |  | [Rossignol X-8 Classic](https://www.sport1.no/rossignol-x-8-classic-onecolor-unisex-rik1260) | klassisk | Sport 1 | **3 330 kr** |  |  | 3 330 kr |  |
 |  | [Rossignol X-8 Classic langrennstøvler](https://www.intersport.no/rossignol-x-8-classic-langrennstovler-onecolor-unisex-rik1260) | klassisk | Intersport | **3 330 kr** |  |  | 3 330 kr |  |
-|  | [Fischer Rc5 Classic](https://www.sport1.no/fischer-rc5-classic-multicolour-unisex-s17023) | klassisk | Sport 1 | **3 400 kr** |  |  | 3 400 kr |  |
 |  | [Fischer RC5 Classic langrennsko](https://www.intersport.no/fischer-rc5-classic-langrennsko-multicolour-unisex-s17023) | klassisk | Intersport | **3 400 kr** |  |  | 3 400 kr |  |
 |  | [Fischer RCS Classic](https://www.milslukern.no/fischer-52-rcs-classic-p31114/multicolour-38-v184749) | klassisk | Milslukern | **3 499 kr** |  |  | 3 499 kr | sjekk størrelse selv |
 |  | [Madshus Pulse BOA® CLASSIC](https://www.milslukern.no/madshus-54-pulse-boa-classic-p30327/tbd-38-v180442) | klassisk | Milslukern | **3 599 kr** |  |  | 3 599 kr | sjekk størrelse selv |
@@ -118,13 +122,12 @@
 |  | [Salomon Pro Combi SC](https://www.milslukern.no/salomon-67-pro-combi-sc-p33143/no-color-4-5-v198703) | kombi | Milslukern | **3 599 kr** |  |  | 3 599 kr | sjekk størrelse selv, Blå/Svart |
 |  | [Madshus Race Speed Univeral](https://www.milslukern.no/madshus-54-race-speed-univeral-p27601/black-37-v160478) | kombi | Milslukern | **3 799 kr** |  |  | 3 799 kr | sjekk størrelse selv, Svart |
 |  | [Madshus Race Speed Univeral](https://www.milslukern.no/madshus-54-race-speed-univeral-p27601/black-37-v160478) | kombi | Milslukern | **3 799 kr** |  |  | 3 799 kr | sjekk størrelse selv, Svart |
+|  | [Madshus Pulse BOA® UNIVERSAL](https://www.sport1.no/madshus-pulse-boar-universal-tbd-unisex-md251343) | kombi | Sport 1 | **3 899 kr** |  |  | 3 899 kr |  |
 |  | [Fischer RC5 Combi](https://www.milslukern.no/fischer-52-rc5-combi-p24179/multicolour-37-v136115) | kombi | Milslukern | **4 500 kr** |  |  | 4 500 kr | sjekk størrelse selv, Svart |
-|  | [Madshus Pulse BOA® UNIVERSAL](https://www.sport1.no/madshus-pulse-boar-universal-tbd-unisex-md251343) | kombi | Sport 1 | **4 800 kr** |  |  | 4 800 kr |  |
 |  | [Madshus Pulse BOA® UNIVERSAL](https://www.intersport.no/madshus-pulse-boar-universal-tbd-unisex-md251343) | kombi | Intersport | **4 800 kr** |  |  | 4 800 kr |  |
 |  | [Fischer Speedmax 9 Skiathlon Boa](https://www.milslukern.no/fischer-52-speedmax-9-skiathlon-boa-p31020/multicolour-39-v183988) | kombi | Milslukern | **11 999 kr** |  |  | 11 999 kr | sjekk størrelse selv |
 |  | [Fischer Speedmax 9 Skiathlon Boa](https://www.milslukern.no/fischer-52-speedmax-9-skiathlon-boa-p31020/multicolour-39-v183988) | kombi | Milslukern | **11 999 kr** |  |  | 11 999 kr | sjekk størrelse selv |
 |  | [Fischer Speedmax 9 Skiathlon Boa](https://www.sport1.no/fischer-speedmax-9-skiathlon-boa-multicolour-unisex-s05525) | kombi | Sport 1 | **12 000 kr** |  |  | 9 000 kr |  |
-|  | [Rossignol XC Boots X-6 Skate 24/25, skøytestøvel](https://www.xxl.no/rossignol-xc-boots-x-6-skate-24-25-skoytestovel-flerfarget/p/1221208_1_Style) | skøyte | XXL | **899 kr** |  |  | 899 kr | Flerfarget |
 |  | [Madshus Race Pro Skate, skøytestøvel, unisex](https://www.xxl.no/madshus-race-pro-skate-skoytestovel-unisex-svart/p/1261875_1_Style) | skøyte | XXL | **1 449 kr** |  |  | 1 449 kr | Svart |
 |  | [Rossignol XC Boots X-7 Skate 25/26, skøytestøvel, unisex](https://www.xxl.no/rossignol-xc-boots-x-7-skate-25-26-skoytestovel-unisex/p/1243418_1_Style) | skøyte | XXL | **2 479 kr** |  |  | 2 479 kr |  |
 |  | [Madshus Endurace Skate](https://www.sport1.no/madshus-endurace-skate-black-unisex-n220400401) | skøyte | Sport 1 | **2 800 kr** |  |  | 2 800 kr |  |
@@ -133,20 +136,20 @@
 |  | [Alpina Nordic Skate 25/26, skøytestøvel](https://www.xxl.no/alpina-nordic-skate-25-26-skoytestovel-svart/p/1232548_1_Style) | skøyte | XXL | **3 099 kr** |  |  | 3 099 kr | Svart |
 |  | [Madshus XC Boots Race Speed Skate 25/26, skøytestøvel](https://www.xxl.no/madshus-xc-boots-race-speed-skate-25-26-skoytestovel-svart/p/1190507_1_Style) | skøyte | XXL | **3 129 kr** |  |  | 3 129 kr | Svart |
 |  | [Rossignol XC Boots X-9 Skate 25/26, skøytestøvel, unisex](https://www.xxl.no/rossignol-xc-boots-x-9-skate-25-26-skoytestovel-unisex/p/1243416_1_Style) | skøyte | XXL | **3 299 kr** |  |  | 3 299 kr |  |
+|  | [Salomon Rs8 Prolink](https://www.sport1.no/salomon-rs8-prolink-dark-navyblackprocess-blue-herre-l47029800) | skøyte | Sport 1 | **3 299 kr** |  |  | 3 299 kr |  |
 |  | [Fischer Rc3 Skate](https://www.sport1.no/fischer-rc3-skate-multicolour-unisex-s15624v) | skøyte | Sport 1 | **3 600 kr** |  |  | 3 600 kr |  |
 |  | [Fischer Rc3 Skate](https://www.intersport.no/fischer-rc3-skate-multicolour-unisex-s15624v) | skøyte | Intersport | **3 600 kr** |  |  | 3 600 kr |  |
 |  | [Fischer Rc5 Skate](https://www.sport1.no/fischer-rc5-skate-multicolour-unisex-s15421) | skøyte | Sport 1 | **3 700 kr** |  |  | 3 700 kr |  |
 |  | [Fischer RC5 Skate skisko skøyting](https://www.intersport.no/fischer-rc5-skate-skisko-skoyting-multicolour-unisex-s15421) | skøyte | Intersport | **3 700 kr** |  |  | 3 700 kr |  |
 | ★ | [Alpina Skisko NSK Sort/Hvit/Rød](https://www.fjellsport.no/merker/alpina/alpina-skisko-nsk-sort-hvit-rod) | skøyte | Fjellsport | **3 799 kr** |  |  | 3 799 kr | sjekk størrelse selv |
+|  | [Madshus Pulse BOA® SKATE](https://www.sport1.no/madshus-pulse-boar-skate-tbd-unisex-md251342) | skøyte | Sport 1 | **3 899 kr** |  |  | 3 899 kr |  |
 |  | [Alpina XC Boots Racing Skate 25/26, skøytestøvel, unisex](https://www.xxl.no/alpina-xc-boots-racing-skate-25-26-skoytestovel-unisex-svart/p/1243858_1_Style) | skøyte | XXL | **4 099 kr** |  |  | 4 099 kr | Svart |
-|  | [Salomon Rs8 Prolink](https://www.sport1.no/salomon-rs8-prolink-dark-navyblackprocess-blue-herre-l47029800) | skøyte | Sport 1 | **4 200 kr** |  |  | 4 200 kr |  |
 |  | [Salomon RS8 Prolink skøytestøvler skisko skøyting](https://www.intersport.no/salomon-rs8-prolink-skoytestovler-skisko-skoyting-dark-navyblackprocess-blue-herre-l47029800) | skøyte | Intersport | **4 200 kr** |  |  | 4 200 kr |  |
 |  | [Salomon Men's RS8 Prolink Dark Navy/Black/Process Blue](https://www.fjellsport.no/merker/salomon/salomon-rs8-prolink-dark-navy-black-process-blue-223079) | skøyte | Fjellsport | **4 200 kr** |  |  | 4 200 kr | sjekk størrelse selv |
 |  | [Fischer RC5 Skate](https://www.milslukern.no/fischer-52-rc5-skate-p33179/multicolour-38-v198857) | skøyte | Milslukern | **4 299 kr** |  |  | 4 299 kr | sjekk størrelse selv |
 | ★ | [Alpina Skisko FSK Rød/Sort/Hvit](https://www.fjellsport.no/merker/alpina/alpina-skisko-fsk-rod-sort-hvit-49) | skøyte | Fjellsport | **4 499 kr** |  |  | 4 499 kr | sjekk størrelse selv |
 |  | [Madshus Pulse BOA® SKATE](https://www.milslukern.no/madshus-54-pulse-boa-skate-p30301/tbd-38-v180347) | skøyte | Milslukern | **4 799 kr** |  |  | 4 799 kr | sjekk størrelse selv |
 |  | [Fischer Rc5 Skate Boa](https://www.sport1.no/fischer-rc5-skate-boa-multicolour-unisex-s15226) | skøyte | Sport 1 | **4 800 kr** |  |  | 4 800 kr |  |
-|  | [Madshus Pulse BOA® SKATE](https://www.sport1.no/madshus-pulse-boar-skate-tbd-unisex-md251342) | skøyte | Sport 1 | **4 800 kr** |  |  | 4 800 kr |  |
 |  | [Fischer Rc5 Skate Boa](https://www.intersport.no/fischer-rc5-skate-boa-multicolour-unisex-s15226) | skøyte | Intersport | **4 800 kr** |  |  | 4 800 kr |  |
 |  | [Rossignol X-Ium Wcs Skate](https://www.sport1.no/rossignol-x-ium-wcs-skate-unisex-rin0060) | skøyte | Sport 1 | **4 875 kr** |  |  | 4 875 kr |  |
 |  | [Fischer RC5 Skate BOA](https://www.milslukern.no/fischer-52-rc5-skate-boa-p30696/sort-42-v182407) | skøyte | Milslukern | **4 999 kr** |  |  | 4 999 kr | sjekk størrelse selv, Gul/Svart |
@@ -187,6 +190,7 @@
 |  | [Leki Prc 750 Black](https://www.fjellsport.no/merker/leki/leki-prc-750-black-FS764911) | stav | Fjellsport | **1 289 kr** | 1 899 kr | −32 % | 1 289 kr | sjekk størrelse selv |
 |  | [Swix I2 Touring Pole White](https://www.fjellsport.no/merker/swix/swix-i2-touring-pole-white-FS640372) | stav | Fjellsport | **379 kr** | 550 kr | −31 % | 379 kr | sjekk størrelse selv |
 |  | [Swix Q4 Pole Black](https://www.fjellsport.no/merker/swix/swix-q4-pole-black-FS640381) | stav | Fjellsport | **1 189 kr** | 1 700 kr | −30 % | 1 189 kr | sjekk størrelse selv |
+|  | [Leki PRC 750 Neonpink-Neonyellow](https://www.fjellsport.no/merker/leki/prc-750-128251-FS413915) | stav | Fjellsport | **1 329 kr** | 1 899 kr | −30 % | 1 329 kr | sjekk størrelse selv |
 | ★ | [Leki Hrc Marathon Tr Bright Red-violet-neonyellow](https://www.fjellsport.no/merker/leki/leki-hrc-marathon-tr-bright-red-violet-neonyellow-FS748525) | stav | Fjellsport | **2 219 kr** | 2 999 kr | −26 % | 2 219 kr | sjekk størrelse selv |
 |  | [Swix Q2 Pole](https://www.intersport.no/swix-q2-pole-white-unisex-xcq20-00) | stav | Intersport | **2 100 kr** | 2 800 kr | −25 % | 2 100 kr | medlemspris |
 |  | [Swix Q1 Pole](https://www.intersport.no/swix-q1-pole-white-unisex-xcq10-00) | stav | Intersport | **2 475 kr** | 3 300 kr | −25 % | 2 475 kr | medlemspris |
@@ -240,10 +244,9 @@
 |  | [One Way Storm Pro](https://www.sport1.no/one-way-storm-pro-multicolour-unisex-oz48521) | stav | Sport 1 | **1 800 kr** |  |  | 1 800 kr |  |
 |  | [Salomon Equipe Pro Click](https://www.sport1.no/salomon-equipe-pro-click-no-color-unisex-l49288000) | stav | Sport 1 | **1 800 kr** |  |  | 1 800 kr |  |
 |  | [One Way Storm Pro](https://www.intersport.no/one-way-storm-pro-multicolour-unisex-oz48521) | stav | Intersport | **1 800 kr** |  |  | 1 800 kr |  |
-|  | [Leki PRC 750 Neonpink-Neonyellow](https://www.fjellsport.no/merker/leki/prc-750-128251-FS413915) | stav | Fjellsport | **1 899 kr** |  |  | 1 899 kr | sjekk størrelse selv |
 |  | [Leki PRC 850](https://www.milslukern.no/leki-268-prc-850-p26611/anthracite-135-cm-v123768) | stav | Milslukern | **1 999 kr** |  |  | 1 999 kr | sjekk størrelse selv |
-|  | [Swix Quantum Q2 pole](https://www.sport1.no/swix-quantum-q2-pole-nocolor-unisex-rcq21-00) | stav | Sport 1 | **2 000 kr** |  |  | 2 000 kr |  |
 | ★ | [Atomic Pro Carbon Qrs](https://www.sport1.no/atomic-pro-carbon-qrs-grey-black-unisex-aj5005800) | stav | Sport 1 | **2 000 kr** |  |  | 2 000 kr |  |
+|  | [Swix Quantum Q2 pole](https://www.sport1.no/swix-quantum-q2-pole-nocolor-unisex-rcq21-00) | stav | Sport 1 | **2 000 kr** |  |  | 2 000 kr |  |
 |  | [Swix Quantum Q2 pole](https://www.intersport.no/swix-quantum-q2-pole-nocolor-unisex-rcq21-00) | stav | Intersport | **2 000 kr** |  |  | 2 000 kr |  |
 | ★ | [Atomic Pro Carbon Qrs](https://www.intersport.no/atomic-pro-carbon-qrs-grey-black-unisex-aj5005800) | stav | Intersport | **2 000 kr** |  |  | 2 000 kr |  |
 |  | [Swix Q2 Pole](https://www.sport1.no/swix-q2-pole-white-unisex-xcq20-00) | stav | Sport 1 | **2 100 kr** |  |  | 2 100 kr |  |
