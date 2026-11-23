@@ -1,54 +1,10 @@
-# Skipriser 2026-11-22
+# Skipriser 2026-11-23
 
 235 aktuelle produkter funnet. ★ = passer til skiene (Atomic Redster C2 Skin, rød/svart: Atomic eller rødt).
 
 ## Endringer siden sist
 
-| ★ | Produkt | Type | Butikk | Pris nå | Førpris | Rabatt | Laveste sett | Merknad |
-|---|---|---|---|---|---|---|---|---|
-|  | [Swix Quantum Q2 pole](https://www.sport1.no/swix-quantum-q2-pole-nocolor-unisex-rcq21-00) | stav | Sport 1 | **999 kr** | 2 000 kr | −50 % | 999 kr | ned fra 2 000 kr, medlemspris |
-|  | [Swix Q2 Pole](https://www.milslukern.no/swix-29-q2-pole-p30298/white-135-v180312) | stav | Milslukern | **1 999 kr** | 2 799 kr | −29 % | 1 999 kr | ned fra 2 799 kr, sjekk størrelse selv, Hvit |
-|  | [Fischer XC TOURING](https://www.milslukern.no/fischer-52-xc-touring-p32734/multicolour-41-v195651) | klassisk | Milslukern | **1 299 kr** | 1 799 kr | −28 % | 1 299 kr | ned fra 1 799 kr, sjekk størrelse selv |
-|  | [Salomon Pro Combi SC](https://www.milslukern.no/salomon-67-pro-combi-sc-p33143/no-color-4-5-v198703) | kombi | Milslukern | **2 699 kr** | 3 599 kr | −25 % | 2 699 kr | ned fra 3 599 kr, sjekk størrelse selv, Blå/Svart |
-|  | [Salomon Equipe Pro Classic Boa](https://www.milslukern.no/salomon-67-equipe-pro-classic-boa-p33141/black-race-blue-5-v198672) | klassisk | Milslukern | **3 374 kr** | 4 499 kr | −25 % | 3 374 kr | ned fra 4 499 kr, sjekk størrelse selv, Blå |
-| ★ | [Salomon Equipe Race Classic Boa](https://www.milslukern.no/salomon-67-equipe-race-classic-boa-p33140/black-race-blue-equipe-red-37-1-3-v198654) | klassisk | Milslukern | **4 274 kr** | 5 699 kr | −25 % | 4 274 kr | ned fra 5 699 kr, sjekk størrelse selv, Blå/Rosa |
-|  | [Fischer Speedmax 7 Classic Boa](https://www.milslukern.no/fischer-52-speedmax-7-classic-boa-p33139/multicolour-37-v198644) | klassisk | Milslukern | **4 349 kr** | 5 799 kr | −25 % | 4 349 kr | ned fra 5 799 kr, sjekk størrelse selv |
-|  | [Fischer RCS Classic](https://www.milslukern.no/fischer-52-rcs-classic-p31114/multicolour-38-v184749) | klassisk | Milslukern | **2 624 kr** | 3 499 kr | −25 % | 2 624 kr | ned fra 3 499 kr, sjekk størrelse selv |
-| ★ | [Salomon S/Lab Equipe Classic BOA®](https://www.milslukern.no/salomon-67-s-lab-equipe-classic-boa-p31047/black-race-blue-equipe-red-38-v197294) | klassisk | Milslukern | **5 774 kr** | 7 699 kr | −25 % | 5 774 kr | ned fra 7 699 kr, sjekk størrelse selv |
-|  | [Fischer Speedmax 9 Skiathlon Boa](https://www.milslukern.no/fischer-52-speedmax-9-skiathlon-boa-p31020/multicolour-39-v183988) | kombi | Milslukern | **8 999 kr** | 11 999 kr | −25 % | 8 999 kr | ned fra 11 999 kr, sjekk størrelse selv |
-| ★ | [Madshus Redline Boa® Classic](https://www.milslukern.no/madshus-54-redline-boa-classic-p30647/red-black-38-v182191) | klassisk | Milslukern | **5 624 kr** | 7 499 kr | −25 % | 5 624 kr | ned fra 7 499 kr, sjekk størrelse selv |
-|  | [Madshus Pulse BOA® CLASSIC](https://www.milslukern.no/madshus-54-pulse-boa-classic-p30327/tbd-38-v180442) | klassisk | Milslukern | **2 699 kr** | 3 599 kr | −25 % | 2 699 kr | ned fra 3 599 kr, sjekk størrelse selv |
-|  | [Salomon S/Max Classic Shoe Unisex](https://www.milslukern.no/salomon-67-s-max-classic-shoe-unisex-p30277/black-race-blue-37-1-3-v180185) | klassisk | Milslukern | **3 149 kr** | 4 199 kr | −25 % | 3 149 kr | ned fra 4 199 kr, sjekk størrelse selv |
-|  | [Fischer Speedmax 9 Classic RL BOA](https://www.milslukern.no/fischer-52-speedmax-9-classic-rl-boa-p30115/242-multicolour-38-v179147) | klassisk | Milslukern | **6 749 kr** | 8 999 kr | −25 % | 6 749 kr | ned fra 8 999 kr, sjekk størrelse selv |
-|  | [Madshus Race Speed Univeral](https://www.milslukern.no/madshus-54-race-speed-univeral-p27601/black-37-v160478) | kombi | Milslukern | **2 849 kr** | 3 799 kr | −25 % | 2 849 kr | ned fra 3 799 kr, sjekk størrelse selv, Svart |
-|  | [Fischer RC3 Combi](https://www.milslukern.no/fischer-52-rc3-combi-p26761/multicolour-36-v155787) | kombi | Milslukern | **2 699 kr** | 3 599 kr | −25 % | 2 699 kr | ned fra 3 599 kr, sjekk størrelse selv |
-|  | [Madshus Endurace Universal](https://www.milslukern.no/madshus-54-endurace-universal-p24786/black-37-v139658) | kombi | Milslukern | **2 099 kr** | 2 799 kr | −25 % | 2 099 kr | ned fra 2 799 kr, sjekk størrelse selv |
-|  | [Fischer RC3 COMBI](https://www.milslukern.no/fischer-52-rc3-combi-p24244/multicolour-37-v136512) | kombi | Milslukern | **2 624 kr** | 3 499 kr | −25 % | 2 624 kr | ned fra 3 499 kr, sjekk størrelse selv, Gul/Svart |
-|  | [Fischer RC5 Combi](https://www.milslukern.no/fischer-52-rc5-combi-p24179/multicolour-37-v136115) | kombi | Milslukern | **3 375 kr** | 4 500 kr | −25 % | 3 375 kr | ned fra 4 500 kr, sjekk størrelse selv, Svart |
-|  | [Salomon Salomon Equipe Pro Skate BOA®](https://www.milslukern.no/salomon-67-salomon-equipe-pro-skate-boa-p33231/black-race-blue-38-v199142) | skøyte | Milslukern | **4 499 kr** | 5 999 kr | −25 % | 4 499 kr | ned fra 5 999 kr, sjekk størrelse selv, Blå/Svart |
-|  | [Fischer RC5 Skate](https://www.milslukern.no/fischer-52-rc5-skate-p33179/multicolour-38-v198857) | skøyte | Milslukern | **3 224 kr** | 4 299 kr | −25 % | 3 224 kr | ned fra 4 299 kr, sjekk størrelse selv |
-|  | [Fischer Speedmax 6 Skate Boa](https://www.milslukern.no/fischer-52-speedmax-6-skate-boa-p33144/multicolour-37-v198721) | skøyte | Milslukern | **5 099 kr** | 6 799 kr | −25 % | 5 099 kr | ned fra 6 799 kr, sjekk størrelse selv, Gul/Svart |
-|  | [Salomon Pro Combi SC](https://www.milslukern.no/salomon-67-pro-combi-sc-p33143/no-color-4-5-v198703) | kombi | Milslukern | **2 699 kr** | 3 599 kr | −25 % | 2 699 kr | ned fra 3 599 kr, sjekk størrelse selv, Blå/Svart |
-| ★ | [Salomon Equipe Race Skate Boa](https://www.milslukern.no/salomon-67-equipe-race-skate-boa-p33142/black-race-blue-equipe-red-38-2-3-v198689) | skøyte | Milslukern | **5 399 kr** | 7 199 kr | −25 % | 5 399 kr | ned fra 7 199 kr, sjekk størrelse selv, Blå |
-|  | [Fischer Speedmax 7 Skate Boa](https://www.milslukern.no/fischer-52-speedmax-7-skate-boa-p33138/multicolour-37-v199482) | skøyte | Milslukern | **6 374 kr** | 8 499 kr | −25 % | 6 374 kr | ned fra 8 499 kr, sjekk størrelse selv |
-| ★ | [Salomon S/Lab Equipe Skate BOA®](https://www.milslukern.no/salomon-67-s-lab-equipe-skate-boa-p31038/black-race-blue-equipe-red-38-v199497) | skøyte | Milslukern | **7 274 kr** | 9 699 kr | −25 % | 7 274 kr | ned fra 9 699 kr, sjekk størrelse selv |
-|  | [Fischer Speedmax 9 Skiathlon Boa](https://www.milslukern.no/fischer-52-speedmax-9-skiathlon-boa-p31020/multicolour-39-v183988) | kombi | Milslukern | **8 999 kr** | 11 999 kr | −25 % | 8 999 kr | ned fra 11 999 kr, sjekk størrelse selv |
-|  | [Fischer RC5 Skate BOA](https://www.milslukern.no/fischer-52-rc5-skate-boa-p30696/sort-42-v182407) | skøyte | Milslukern | **3 749 kr** | 4 999 kr | −25 % | 3 749 kr | ned fra 4 999 kr, sjekk størrelse selv, Gul/Svart |
-|  | [Madshus Redline Skate X BOA](https://www.milslukern.no/madshus-54-redline-skate-x-boa-p30583/multi-42-v181911) | skøyte | Milslukern | **7 874 kr** | 10 499 kr | −25 % | 7 874 kr | ned fra 10 499 kr, sjekk størrelse selv |
-|  | [Madshus Pulse BOA® SKATE](https://www.milslukern.no/madshus-54-pulse-boa-skate-p30301/tbd-38-v180347) | skøyte | Milslukern | **3 599 kr** | 4 799 kr | −25 % | 3 599 kr | ned fra 4 799 kr, sjekk størrelse selv |
-|  | [Fischer Speedmax 7 Skate](https://www.milslukern.no/fischer-52-speedmax-7-skate-p30118/242-multicolour-37-v181580) | skøyte | Milslukern | **5 849 kr** | 7 799 kr | −25 % | 5 849 kr | ned fra 7 799 kr, sjekk størrelse selv |
-|  | [Fischer Speedmax 9 Skate RL BOA](https://www.milslukern.no/fischer-52-speedmax-9-skate-rl-boa-p30107/242-multicolour-38-v179101) | skøyte | Milslukern | **8 624 kr** | 11 499 kr | −25 % | 8 624 kr | ned fra 11 499 kr, sjekk størrelse selv |
-|  | [Madshus Race Speed Univeral](https://www.milslukern.no/madshus-54-race-speed-univeral-p27601/black-37-v160478) | kombi | Milslukern | **2 849 kr** | 3 799 kr | −25 % | 2 849 kr | ned fra 3 799 kr, sjekk størrelse selv, Svart |
-|  | [Salomon S/MAX Skate MV](https://www.milslukern.no/salomon-67-s-max-skate-mv-p26952/black-process-blue-x-4-5-v157314) | skøyte | Milslukern | **4 124 kr** | 5 499 kr | −25 % | 4 124 kr | ned fra 5 499 kr, sjekk størrelse selv |
-|  | [Leki CC 450](https://www.milslukern.no/leki-268-cc-450-p22759/neonyellow-black-white-130-cm-v126438) | stav | Milslukern | **1 124 kr** | 1 499 kr | −25 % | 1 124 kr | nytt tilbud, sjekk størrelse selv |
-|  | [Swix Quantum 4 TCS](https://www.milslukern.no/swix-29-quantum-4-tcs-p21331/ass-1400-v117505) | stav | Milslukern | **1 199 kr** | 1 599 kr | −25 % | 1 199 kr | nytt tilbud, sjekk størrelse selv |
-|  | [Swix Roadline 2 pole](https://www.milslukern.no/swix-29-roadline-2-pole-p22831/nocolor-1400-v126818) | stav | Milslukern | **1 199 kr** | 1 599 kr | −25 % | 1 199 kr | nytt tilbud, sjekk størrelse selv |
-|  | [Swix Triac 4.0 Aero](https://www.milslukern.no/swix-29-triac-4-0-aero-p22458/triac-4-0-aero-130-v134613) | stav | Milslukern | **3 149 kr** | 4 199 kr | −25 % | 3 149 kr | nytt tilbud, sjekk størrelse selv |
-|  | [One Way Diamond 1 MAG](https://www.milslukern.no/one-way-504-diamond-1-mag-p32683/multicolour-130-v195231) | stav | Milslukern | **786 kr** | 1 049 kr | −25 % | 786 kr | nytt tilbud, sjekk størrelse selv |
-|  | [Leki XTA Tour](https://www.milslukern.no/leki-268-xta-tour-p33317/black-grey-120cm-v199611) | stav | Milslukern | **449 kr** | 599 kr | −25 % | 449 kr | nytt tilbud, sjekk størrelse selv |
-|  | [Swix Quantum 4](https://www.milslukern.no/swix-29-quantum-4-p19715/ass-1425-v116671) | stav | Milslukern | **1 199 kr** | 1 599 kr | −25 % | 1 199 kr | nytt tilbud, sjekk størrelse selv |
-|  | [Swix Q6 Pole](https://www.milslukern.no/swix-29-q6-pole-p30501/00100-white-135-v181469) | stav | Milslukern | **749 kr** | 999 kr | −25 % | 749 kr | ned fra 999 kr, sjekk størrelse selv |
-|  | [Swix Quantum 2](https://www.milslukern.no/swix-29-quantum-2-p18931/nc-1400-v102939) | stav | Milslukern | **1 649 kr** | 2 199 kr | −25 % | 1 649 kr | ned fra 2 199 kr, sjekk størrelse selv |
+_Ingen._
 
 ## Skisko, str. 45 – på tilbud nå
 
