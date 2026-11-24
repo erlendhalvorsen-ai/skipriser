@@ -1,6 +1,6 @@
-# Skipriser 2026-11-23
+# Skipriser 2026-11-24
 
-235 aktuelle produkter funnet. ★ = passer til skiene (Atomic Redster C2 Skin, rød/svart: Atomic eller rødt).
+234 aktuelle produkter funnet. ★ = passer til skiene (Atomic Redster C2 Skin, rød/svart: Atomic eller rødt).
 
 ## Endringer siden sist
 
@@ -151,7 +151,6 @@ _Ingen._
 |  | [Alpina XC Boots Racing Skate 25/26, skøytestøvel, unisex](https://www.xxl.no/alpina-xc-boots-racing-skate-25-26-skoytestovel-unisex-svart/p/1243858_1_Style) | skøyte | XXL | **4 099 kr** |  |  | 4 099 kr | Svart |
 |  | [Salomon RS8 Prolink skøytestøvler skisko skøyting](https://www.intersport.no/salomon-rs8-prolink-skoytestovler-skisko-skoyting-dark-navyblackprocess-blue-herre-l47029800) | skøyte | Intersport | **4 200 kr** |  |  | 4 200 kr |  |
 |  | [Salomon Men's RS8 Prolink Dark Navy/Black/Process Blue](https://www.fjellsport.no/merker/salomon/salomon-rs8-prolink-dark-navy-black-process-blue-223079) | skøyte | Fjellsport | **4 200 kr** |  |  | 4 200 kr | sjekk størrelse selv |
-| ★ | [Alpina Skisko FSK Rød/Sort/Hvit](https://www.fjellsport.no/merker/alpina/alpina-skisko-fsk-rod-sort-hvit-49) | skøyte | Fjellsport | **4 499 kr** |  |  | 4 499 kr | sjekk størrelse selv |
 |  | [Fischer Rc5 Skate Boa](https://www.sport1.no/fischer-rc5-skate-boa-multicolour-unisex-s15226) | skøyte | Sport 1 | **4 800 kr** |  |  | 4 800 kr |  |
 |  | [Fischer Rc5 Skate Boa](https://www.intersport.no/fischer-rc5-skate-boa-multicolour-unisex-s15226) | skøyte | Intersport | **4 800 kr** |  |  | 4 800 kr |  |
 |  | [Rossignol X-Ium Wcs Skate](https://www.sport1.no/rossignol-x-ium-wcs-skate-unisex-rin0060) | skøyte | Sport 1 | **4 875 kr** |  |  | 4 875 kr |  |
@@ -175,7 +174,6 @@ _Ingen._
 | ★ | Produkt | Type | Butikk | Pris nå | Førpris | Rabatt | Laveste sett | Merknad |
 |---|---|---|---|---|---|---|---|---|
 |  | [Mckinley Vision 6.0 langrennsstaver](https://www.intersport.no/mckinley-vision-60-langrennsstaver-blackwhiteyellow-unisex-410414) | stav | Intersport | **299 kr** | 799 kr | −63 % | 299 kr |  |
-|  | [Swix Quantum Q2 pole](https://www.sport1.no/swix-quantum-q2-pole-nocolor-unisex-rcq21-00) | stav | Sport 1 | **999 kr** | 2 000 kr | −50 % | 999 kr | medlemspris |
 |  | [Swix Infinity Sonic Alu Pole Black Nocolor](https://www.fjellsport.no/merker/swix/swix-infinity-sonic-alu-pole-black-nocolor-FS767082) | stav | Fjellsport | **359 kr** | 600 kr | −40 % | 359 kr | sjekk størrelse selv |
 |  | [Leki PRC 850 Light Anthracite-neonyellow](https://www.fjellsport.no/merker/leki/leki-prc-850-light-anthracite-neonyellow-FS610406) | stav | Fjellsport | **1 299 kr** | 1 999 kr | −35 % | 1 299 kr | sjekk størrelse selv |
 |  | [Swix XC Poles Dynamic D1 25/26, langrennsstav](https://www.xxl.no/swix-xc-poles-dynamic-d1-25-26-langrennsstav/p/1201134_1_Style) | stav | XXL | **299 kr** | 449 kr | −33 % | 299 kr |  |
@@ -205,8 +203,8 @@ _Ingen._
 | ★ | Produkt | Type | Butikk | Pris nå | Førpris | Rabatt | Laveste sett | Merknad |
 |---|---|---|---|---|---|---|---|---|
 |  | [Swix XC Pole Dynamic D3 24/25, langrennsstav](https://www.xxl.no/swix-xc-pole-dynamic-d3-24-25-langrennsstav/p/1242033_1_Style) | stav | XXL | **399 kr** |  |  | 399 kr |  |
-|  | [One Way Diamond 3](https://www.sport1.no/one-way-diamond-3-multicolour-unisex-oz43321) | stav | Sport 1 | **500 kr** |  |  | 500 kr |  |
 |  | [Fischer Tour](https://www.sport1.no/fischer-tour-multicolour-unisex-z43525) | stav | Sport 1 | **500 kr** |  |  | 500 kr |  |
+|  | [One Way Diamond 3](https://www.sport1.no/one-way-diamond-3-multicolour-unisex-oz43321) | stav | Sport 1 | **500 kr** |  |  | 500 kr |  |
 |  | [Fischer Tour](https://www.intersport.no/fischer-tour-multicolour-unisex-z43525) | stav | Intersport | **500 kr** |  |  | 500 kr |  |
 |  | [One Way Diamond 3](https://www.intersport.no/one-way-diamond-3-multicolour-unisex-oz43321) | stav | Intersport | **500 kr** |  |  | 500 kr |  |
 |  | [Swix Elite, Sonic Touring](https://www.sport1.no/swix-elite-sonic-touring-unisex-et111-01) | stav | Sport 1 | **549 kr** |  |  | 549 kr |  |
@@ -246,6 +244,7 @@ _Ingen._
 |  | [One Way Storm Pro](https://www.sport1.no/one-way-storm-pro-multicolour-unisex-oz48521) | stav | Sport 1 | **1 800 kr** |  |  | 1 800 kr |  |
 |  | [Salomon Equipe Pro Click](https://www.sport1.no/salomon-equipe-pro-click-no-color-unisex-l49288000) | stav | Sport 1 | **1 800 kr** |  |  | 1 800 kr |  |
 |  | [One Way Storm Pro](https://www.intersport.no/one-way-storm-pro-multicolour-unisex-oz48521) | stav | Intersport | **1 800 kr** |  |  | 1 800 kr |  |
+|  | [Swix Quantum Q2 pole](https://www.sport1.no/swix-quantum-q2-pole-nocolor-unisex-rcq21-00) | stav | Sport 1 | **2 000 kr** |  |  | 999 kr |  |
 | ★ | [Atomic Pro Carbon Qrs](https://www.sport1.no/atomic-pro-carbon-qrs-grey-black-unisex-aj5005800) | stav | Sport 1 | **2 000 kr** |  |  | 2 000 kr |  |
 |  | [Swix Quantum Q2 pole](https://www.intersport.no/swix-quantum-q2-pole-nocolor-unisex-rcq21-00) | stav | Intersport | **2 000 kr** |  |  | 2 000 kr |  |
 | ★ | [Atomic Pro Carbon Qrs](https://www.intersport.no/atomic-pro-carbon-qrs-grey-black-unisex-aj5005800) | stav | Intersport | **2 000 kr** |  |  | 2 000 kr |  |
