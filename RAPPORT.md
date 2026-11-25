@@ -1,10 +1,12 @@
-# Skipriser 2026-11-24
+# Skipriser 2026-11-25
 
 234 aktuelle produkter funnet. ★ = passer til skiene (Atomic Redster C2 Skin, rød/svart: Atomic eller rødt).
 
 ## Endringer siden sist
 
-_Ingen._
+| ★ | Produkt | Type | Butikk | Pris nå | Førpris | Rabatt | Laveste sett | Merknad |
+|---|---|---|---|---|---|---|---|---|
+|  | [Leki PRC 850 Light Anthracite-neonyellow](https://www.fjellsport.no/merker/leki/leki-prc-850-light-anthracite-neonyellow-FS610406) | stav | Fjellsport | **999 kr** | 1 999 kr | −50 % | 999 kr | ned fra 1 299 kr, sjekk størrelse selv |
 
 ## Skisko, str. 45 – på tilbud nå
 
@@ -17,7 +19,7 @@ _Ingen._
 |  | [Salomon S/Race Skiathlon BOA®](https://www.milslukern.no/salomon-67-s-race-skiathlon-boa-p29183/black-race-blue-38-2-3-v171749) | kombi | Milslukern | **4 319 kr** | 7 199 kr | −40 % | 4 319 kr | sjekk størrelse selv |
 |  | [Salomon S/Race Skiathlon BOA®](https://www.milslukern.no/salomon-67-s-race-skiathlon-boa-p29183/black-race-blue-38-2-3-v171749) | kombi | Milslukern | **4 319 kr** | 7 199 kr | −40 % | 4 319 kr | sjekk størrelse selv |
 |  | [Salomon S/Race Skate BOA](https://www.milslukern.no/salomon-67-s-race-skate-boa-p27343/black-race-blue-40-v159242) | skøyte | Milslukern | **4 319 kr** | 7 199 kr | −40 % | 4 319 kr | sjekk størrelse selv |
-|  | [Fischer Speedmax 7 Classic](https://www.milslukern.no/fischer-52-speedmax-7-classic-p29798/multicolour-48-v177010) | klassisk | Milslukern | **3 199 kr** | 4 999 kr | −36 % | 3 199 kr | sjekk størrelse selv, Gul/Svart |
+|  | [Fischer Speedmax 7 Classic](https://www.milslukern.no/fischer-52-speedmax-7-classic-p29798/multicolour-46-v177008) | klassisk | Milslukern | **3 199 kr** | 4 999 kr | −36 % | 3 199 kr | sjekk størrelse selv, Gul/Svart |
 |  | [Rossignol XC Boots X-8 Classic, klassisk langrennsstøvel](https://www.xxl.no/rossignol-xc-boots-x-8-classic-klassisk-langrennsstovel-flerfarget/p/1221201_1_Style) | klassisk | XXL | **1 249 kr** | 1 749 kr | −29 % | 1 249 kr | Flerfarget |
 |  | [Fischer XC TOURING](https://www.milslukern.no/fischer-52-xc-touring-p32734/multicolour-41-v195651) | klassisk | Milslukern | **1 299 kr** | 1 799 kr | −28 % | 1 299 kr | sjekk størrelse selv |
 |  | [Alpina Skisko Action Cl Black](https://www.fjellsport.no/merker/alpina/alpina-skisko-action-cl-black-FS571397) | klassisk | Fjellsport | **2 199 kr** | 2 999 kr | −27 % | 2 199 kr | sjekk størrelse selv |
@@ -174,8 +176,8 @@ _Ingen._
 | ★ | Produkt | Type | Butikk | Pris nå | Førpris | Rabatt | Laveste sett | Merknad |
 |---|---|---|---|---|---|---|---|---|
 |  | [Mckinley Vision 6.0 langrennsstaver](https://www.intersport.no/mckinley-vision-60-langrennsstaver-blackwhiteyellow-unisex-410414) | stav | Intersport | **299 kr** | 799 kr | −63 % | 299 kr |  |
+|  | [Leki PRC 850 Light Anthracite-neonyellow](https://www.fjellsport.no/merker/leki/leki-prc-850-light-anthracite-neonyellow-FS610406) | stav | Fjellsport | **999 kr** | 1 999 kr | −50 % | 999 kr | sjekk størrelse selv |
 |  | [Swix Infinity Sonic Alu Pole Black Nocolor](https://www.fjellsport.no/merker/swix/swix-infinity-sonic-alu-pole-black-nocolor-FS767082) | stav | Fjellsport | **359 kr** | 600 kr | −40 % | 359 kr | sjekk størrelse selv |
-|  | [Leki PRC 850 Light Anthracite-neonyellow](https://www.fjellsport.no/merker/leki/leki-prc-850-light-anthracite-neonyellow-FS610406) | stav | Fjellsport | **1 299 kr** | 1 999 kr | −35 % | 1 299 kr | sjekk størrelse selv |
 |  | [Swix XC Poles Dynamic D1 25/26, langrennsstav](https://www.xxl.no/swix-xc-poles-dynamic-d1-25-26-langrennsstav/p/1201134_1_Style) | stav | XXL | **299 kr** | 449 kr | −33 % | 299 kr |  |
 |  | [Leki Xta Tour Anthracite](https://www.fjellsport.no/merker/leki/leki-xta-tour-anthracite-510137) | stav | Fjellsport | **399 kr** | 599 kr | −33 % | 399 kr | sjekk størrelse selv |
 |  | [Leki Prc 750 Black](https://www.fjellsport.no/merker/leki/leki-prc-750-black-FS764911) | stav | Fjellsport | **1 289 kr** | 1 899 kr | −32 % | 1 289 kr | sjekk størrelse selv |
