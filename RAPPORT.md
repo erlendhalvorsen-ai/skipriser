@@ -1,4 +1,4 @@
-# Skipriser 2026-11-26
+# Skipriser 2026-11-27
 
 232 aktuelle produkter funnet. ★ = passer til skiene (Atomic Redster C2 Skin, rød/svart: Atomic eller rødt).
 
@@ -10,7 +10,7 @@ _Ingen._
 
 | ★ | Produkt | Type | Butikk | Pris nå | Førpris | Rabatt | Laveste sett | Merknad |
 |---|---|---|---|---|---|---|---|---|
-|  | [Salomon RC10 Prolink](https://www.milslukern.no/salomon-67-rc10-prolink-p27129/black-process-blue-8-v158492) | klassisk | Milslukern | **989 kr** | 3 299 kr | −70 % | 989 kr | sjekk størrelse selv |
+|  | [Salomon RC10 Prolink](https://www.milslukern.no/salomon-67-rc10-prolink-p27129/black-process-blue-14-v158504) | klassisk | Milslukern | **989 kr** | 3 299 kr | −70 % | 989 kr | sjekk størrelse selv |
 | ★ | [Atomic Pro C1 klassisk sko](https://www.milslukern.no/atomic-437-pro-c1-klassisk-sko-p27564/no-color-42-2-3-v160411) | klassisk | Milslukern | **1 199 kr** | 2 399 kr | −50 % | 1 199 kr | sjekk størrelse selv |
 |  | [Madshus XC Boots Race Pro Classic, langrennsstøvel](https://www.xxl.no/madshus-xc-boots-race-pro-classic-langrennsstovel-svart/p/1286391_1_Style) | klassisk | XXL | **1 999 kr** | 4 000 kr | −50 % | 1 999 kr | Svart |
 |  | [Salomon Rs10 Ebony / White / Process Blue-X](https://www.fjellsport.no/merker/salomon/salomon-rs10-ebony-white-process-blue-x-FS556418) | skøyte | Fjellsport | **2 699 kr** | 4 700 kr | −43 % | 2 699 kr | sjekk størrelse selv |
@@ -61,9 +61,9 @@ _Ingen._
 |---|---|---|---|---|---|---|---|---|
 |  | [Fischer Xc Touring](https://www.sport1.no/fischer-xc-touring-multicolour-unisex-s21625) | klassisk | Sport 1 | **1 299 kr** |  |  | 1 299 kr |  |
 |  | [Fischer Xc Touring](https://www.sport1.no/fischer-xc-touring-multicolour-unisex-s21622) | klassisk | Sport 1 | **1 299 kr** |  |  | 1 299 kr |  |
-|  | [Alpina T 10](https://www.intersport.no/alpina-t-10-blackred-unisex-al54341k) | klassisk | Intersport | **1 299 kr** |  |  | 1 299 kr |  |
 |  | [Alpina T 10 Tur skisko klassisk](https://www.intersport.no/alpina-t-10-tur-skisko-klassisk-sortrod-unisex-al5357) | klassisk | Intersport | **1 299 kr** |  |  | 1 299 kr |  |
 |  | [Alpina XC Boots T 5 Plus 25/26, langrennsko, unisex](https://www.xxl.no/alpina-xc-boots-t-5-plus-25-26-langrennsko-unisex-svart/p/1243863_1_Style) | klassisk | XXL | **1 399 kr** |  |  | 1 399 kr | Svart |
+|  | [Alpina T 10](https://www.intersport.no/alpina-t-10-blackred-unisex-al54341k) | klassisk | Intersport | **1 499 kr** |  |  | 1 299 kr |  |
 |  | [Madshus XC Boots Active U 25/26, klassiskstøvel](https://www.xxl.no/madshus-xc-boots-active-u-25-26-klassiskstovel-svart/p/1221926_1_Style) | klassisk | XXL | **1 520 kr** |  |  | 1 520 kr | Svart |
 |  | [Fischer XC Boots XC Comfort 25/26, klassiske langrennsstøvler](https://www.xxl.no/fischer-xc-boots-xc-comfort-25-26-klassiske-langrennsstovler-flerfarget/p/1231525_1_Style) | klassisk | XXL | **1 579 kr** |  |  | 1 579 kr | Flerfarget |
 |  | [Madshus Nordic](https://www.sport1.no/madshus-nordic-black-unisex-n220401101) | klassisk | Sport 1 | **1 600 kr** |  |  | 1 600 kr |  |
