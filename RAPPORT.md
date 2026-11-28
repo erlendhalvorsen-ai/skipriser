@@ -1,6 +1,6 @@
-# Skipriser 2026-11-27
+# Skipriser 2026-11-28
 
-232 aktuelle produkter funnet. ★ = passer til skiene (Atomic Redster C2 Skin, rød/svart: Atomic eller rødt).
+233 aktuelle produkter funnet. ★ = passer til skiene (Atomic Redster C2 Skin, rød/svart: Atomic eller rødt).
 
 ## Endringer siden sist
 
@@ -106,6 +106,7 @@ _Ingen._
 | ★ | [Alpina Skisko NCL AS Sort/Hvit/Rød](https://www.fjellsport.no/merker/alpina/alpina-skisko-ncl-as-sort-hvit-rod) | klassisk | Fjellsport | **3 599 kr** |  |  | 3 599 kr | sjekk størrelse selv |
 |  | [Rossignol X-Ium Wcs Classic](https://www.sport1.no/rossignol-x-ium-wcs-classic-unisex-rin0070) | klassisk | Sport 1 | **3 750 kr** |  |  | 3 750 kr |  |
 | ★ | [Alpina Skisko FCL Rød/Sort/Hvit](https://www.fjellsport.no/merker/alpina/alpina-skisko-fcl-rod-sort-hvit-51) | klassisk | Fjellsport | **3 799 kr** |  |  | 3 799 kr | sjekk størrelse selv |
+| ★ | [Alpina Skisko FCL AS Rød/Sort/Hvit](https://www.fjellsport.no/merker/alpina/alpina-skisko-fcl-as-rod-sort-hvit-51) | klassisk | Fjellsport | **3 999 kr** |  |  | 3 999 kr | sjekk størrelse selv |
 |  | [Fischer Speedmax 6 Classic Boa](https://www.sport1.no/fischer-speedmax-6-classic-boa-multicolour-unisex-s12526) | klassisk | Sport 1 | **4 800 kr** |  |  | 3 600 kr |  |
 |  | [Fischer Speedmax 6 Classic Boa](https://www.intersport.no/fischer-speedmax-6-classic-boa-multicolour-unisex-s12526) | klassisk | Intersport | **4 800 kr** |  |  | 4 800 kr |  |
 |  | [Alpina Skisko Comp CL](https://www.sport1.no/alpina-skisko-comp-cl-redwhiteblack-unisex-al5411) | klassisk | Sport 1 | **4 999 kr** |  |  | 4 999 kr |  |
